@@ -1,0 +1,548 @@
+﻿제목,작성자,작성시간,추천수,댓글수,내용,URL,플레어,업로드_비율
+"Weekly Discussion Thread - January 21, 2025",AutoModerator,2025-01-21 20:01:50,3,2,"This is a dedicated space for open conversation on all things algorithmic and systematic trading. Whether you’re a seasoned quant or just getting started, feel free to join in and contribute to the discussion. Here are a few ideas for what to share or ask about:
+
+* **Market Trends:** What’s moving in the markets today?
+* **Trading Ideas and Strategies:** Share insights or discuss approaches you’re exploring. What have you found success with? What mistakes have you made that others may be able to avoid?
+* **Questions & Advice:** Looking for feedback on a concept, library, or application?
+* **Tools and Platforms:** Discuss tools, data sources, platforms, or other resources you find useful (or not!).
+* **Resources for Beginners:** New to the community? Don’t hesitate to ask questions and learn from others.
+
+Please remember to keep the conversation respectful and supportive. Our community is here to help each other grow, and thoughtful, constructive contributions are always welcome.",https://reddit.com/r/algotrading/comments/1i6g58b/weekly_discussion_thread_january_21_2025/,,1.0
+insight on Pumpportal vs bitquery for Pump.fun api,Normal-Astronomer-83,2025-01-26 05:06:57,4,0,"Hi all, what a thought a complete beginner wishes to make an AI trading bot for meme coins; I know, I know. 
+
+Well, bare with me. 
+
+  
+As I embark on this project, I'm curious if anyone with experience has anything to say about either of these third-party API providers. 
+
+  
+Thanks!",https://reddit.com/r/algotrading/comments/1i9vpfa/insight_on_pumpportal_vs_bitquery_for_pumpfun_api/,Data,0.83
+Anyone interested in deeper networking?,_melfice_,2025-01-25 07:54:30,66,56,"Hey all,
+
+Been here a while and interested in networking more with people either in my position, doing better, or me from a few years ago when I was just starting to get established.
+
+Would be great to have some folks to chat with more on a daily or weekly basis, like a group of ppl in a similar situation. I've had some cool exchanges with people on this sub over the years and really miss that aspect of chatting with others full time like I used to at work. 
+
+* **Moved** *
+
+**Shoot me a dm if you're in one of these groups and want to try and get something started. If not I'll f\*\*\* off and never make a post like this again.**
+
+I've tried this with daytraders or prop/bucket shop traders but it ends up being a lot of noise. The conversations become really annoying/toxic because so much of what they are fluctuate day to day based on their own pnl. They also don't seem to last very long which is its' own kind of depressing.
+
+I don't care about your alpha, there can even be a hard rule to never discuss explicit alpha. There are so many other factors that go into doing this for a living, things like: commiserating rough days/dds, hyping up big days or big updates/milestones to business/process, technical talk(non alpha/IP related), how this stuff affects your life and maybe just some general venting, general market talk and speculation, and potentially do some irl meetups.
+
+**My background:**
+
+I worked in FAANG for a decade and left my career to build trading bots full time. That was 2 years ago and after clumsily learning how to scale and make this a business I now have roughly 1.5m aum. It's been a long road to stabilize things and there are tons more to discuss but I don't want to write a giant diatribe. I am currently working through and just starting to execute my 5 year plan to keep growing and survive the markets long term. 
+
+  
+**People I'm interested in chatting with**
+
+**In my position:**
+
+\- Doing this full time for 1-2 years
+
+\- Technical background
+
+\- Still in the process of scaling their business
+
+\- Have a long term plan they're just starting to execute
+
+**Doing better than me:**
+
+\- full time longer than 2 years
+
+\- more established in their business
+
+\- Already have a long term plan that they are currently executing
+
+**Me from 2 years ago:**
+
+\- Built something that's starting to do well
+
+\- In the process of leaving their job/career to pursue this full time
+
+\- Just thinking about their long term plans/goals
+
+  ",https://reddit.com/r/algotrading/comments/1i98hh3/anyone_interested_in_deeper_networking/,Career,0.92
+What is the Monte Carlo method used for in backtesting?,aitorp6,2025-01-25 02:22:16,48,27,"Hi!
+
+I asked as a response to a comment in another post, in this same sub-reddit, bay I had not repsonse. 
+
+The thing is that I know what a Mote Carlo method is, but i can't imagen how can be used in backtesting. What is the variable subjet to the randoness? Is it used with a gaussian distribution or another one?
+
+
+
+ Can any of you give me a simple example? 
+
+
+Edit 1: couple of typo fixed
+
+Edit 2: thank you all for your answers. There have been some good ideas and some interesting discussions. thank you all for your answers. I need to process these ideas and fully understand them.",https://reddit.com/r/algotrading/comments/1i90odm/what_is_the_monte_carlo_method_used_for_in/,Education,0.93
+Regime focus in Backtesting - How important is it?,JonnyTwoHands79,2025-01-25 04:41:21,9,10,"Hey everyone,
+
+I'm curious what your thoughts are on how much weight you put on testing during different historical market regimes, particularly in regards to determining if a strategy has been overfit to the most recent regime.
+
+My strategy is pretty profitable in the last year (200%+ profitable, profit factor > 2), but it doesn't have a very high Sharpe Ratio (1 range at best), and it definitely breaks down when I start spanning multiple regimes. I also haven't performed Monte Carlo simulations either.
+
+I'm curious:
+
+1. How much consideration should put on Sharpe Ratio, regime testing, Monte Carlo, and walk-forward testing?
+
+I've currently back tested for a 2 year timeframe (last regime) and forward tested for a year with decent profitability, but I'm nervous about the robustness of my strategy when I start looking into these other regimes as performance deteriorates (or goes negative).
+
+Any thoughts or learnings are appreciated!
+
+https://preview.redd.it/okzg2ic8wzee1.png?width=882&format=png&auto=webp&s=2da083c56c7dffbc5d3d15351845df23fa37e973
+
+**Edit**: Thanks for the responses thus far, much appreciated. Adding a little more background for context:  
+\- My strategy is a trend-following / momentum based strategy  
+\- I've back tested it during each of the regimes above (with separate parameters for each regime) and can find profitability within each regime (and sometimes spanning multiple regimes), but I can't find consistent profitability over the entire 10 year span above using the same parameters.
+
+\- **My thesis (flawed or not) is:** Optimize and continue to improve a single strategy that can be adjusted to any regime (or almost any) and generate very high returns, with the assumption I'll still have to monitor regimes and adjust settings every 6 months or so to maintain profitability. I'm aiming for high returns with the trade off of needing to adjust it intermittently.
+
+\- **One of my biggest questions**: Do successful algo traders have strategies that are truly robust and ""regime agnostic"" that they rarely adjust (set and forget), or do they monitor for regime changes and adjust their settings accordingly?",https://reddit.com/r/algotrading/comments/1i940z3/regime_focus_in_backtesting_how_important_is_it/,Strategy,1.0
+How impactful is ITCH data to your trading,DopeyDonkeyUser,2025-01-25 09:04:37,2,0,"For those whom launched with full book data NOM and Equities, hoe much of an impact has it improved your performance?
+
+What type of data have you seen has the strongest predictive power?",https://reddit.com/r/algotrading/comments/1i9a0d7/how_impactful_is_itch_data_to_your_trading/,Data,0.58
+I want to learn how to trade as someone capable of working with numbers/coding. Where do I start?,okaythanksbud,2025-01-24 16:27:38,12,22,"I have nearly 0 knowledge of trading or how most businesses operate. I’m still very young so I have a lot of time to learn but want to do so asap. I’ve only ever had interest in learning subjects with rigor, the thought of being in a business school class and looking at whatever color-print books accessible to 99% of the population they use nauseate me. I don’t know why, but unless the book is written in B&W with a super dry, definition-explanation-example type of format I have no interest in reading it.
+
+I am wondering if there any any introductory books/textbooks to trading/finance/whatever that come from a somewhat rigorous standpoint, and will allow me to 1: learn the basics, 2: learn whatever theory underlies it, 3: actually apply the concepts to see actual returns. I would be surprised if any single book on this existed, so I would be very happy with any amount of books that sum up to this content.
+
+I appreciate any advice!",https://reddit.com/r/algotrading/comments/1i8q34d/i_want_to_learn_how_to_trade_as_someone_capable/,Education,0.68
+Alpaca's Trump Hypothesis,Jrbell19,2025-01-24 02:12:08,90,9,"Hello folks of r/algotrading \- 
+
+I wanted to highlight an article that showcases the kind of informative, process-driven content that aligns perfectly with the spirit of this community.
+
+For newbies - We see TONS of posts filtered out due to low-quality posts or general ‘how do I start’ questions. This post outlines the essential starting point: developing a hypothesis, building a testing framework, and continuously iterating until you’re confident enough to deploy with capital. 
+
+While I don’t expect everyone to share their strategies or match this level of detail, I hope this inspires more process-oriented content that will encourage discussion. 
+
+Feel free to share any similar content you’ve come across that may be insightful or helpful for the new members! 
+
+Alpaca's Article:
+
+# [The Stock Market Under Trump: A Hypothesis Based on Former Republican Presidencies](https://alpaca.markets/learn/the-stock-market-under-trump-a-hypothesis-based-on-former-republican-presidencies)",https://reddit.com/r/algotrading/comments/1i88cqj/alpacas_trump_hypothesis/,Strategy,0.94
+Intraday SL,Jeckry,2025-01-24 10:23:57,11,9,"Need some advice for the backtesting of my trading bot.
+
+I made a bot with pine script on Tradingview and Im currently running it on bybit, the live trading works exactly as I planned but i encounter some problems with tradingview backtesting.
+
+The problem is that the backtesting ignores intracandle sl, it only gets data at candle closure and that doesnt really work for my case, I have tried everything to find a way around it so Im thinking to migrate to an other platform for my backtesting.
+
+Do you guys have found a solution to this issue or if not what platform should I migrate to.",https://reddit.com/r/algotrading/comments/1i8jrsy/intraday_sl/,Education,1.0
+What platform/framework for crypto and stock trading?,FatefulDonkey,2025-01-24 04:30:09,7,10,"I wonder what everyone is using for automated trading and what is the pros/cons people find.
+
+Namely we're building a new tool that will support both crypto and stock exchanges and we're interested to know what people actually find lacking out there.",https://reddit.com/r/algotrading/comments/1i8bqj9/what_platformframework_for_crypto_and_stock/,Infrastructure,0.82
+Any exchanges that allow bots for paper trading?,hoosierpride1,2025-01-24 12:05:22,0,23,"Hello fellow apes,
+
+Are there an  exchanges that let you deploy different types of trading bots (grid, dca, reverse grid,smart rebalance) to first test strategies in a paper trading account?
+
+I am primarily looking for trading stocks and crypto.
+
+Thanks in advance!!",https://reddit.com/r/algotrading/comments/1i8ls79/any_exchanges_that_allow_bots_for_paper_trading/,Other/Meta,0.5
+"In the US, what crypto exchange to use?",Desalzes_,2025-01-24 00:20:20,7,20,"I've written a good bot that does great doing live paper trading but...
+
+Every exchange I've seen that I have access to is in the realm of .4% exchange fees, [binance.us](http://binance.us) is banned in my state. I don't know about using a vpn because I saw you can get your account locked, was wondering if anyone here knows what I should be using",https://reddit.com/r/algotrading/comments/1i85pgo/in_the_us_what_crypto_exchange_to_use/,Data,0.78
+I'm giving up,na85,2025-01-24 05:29:15,4,58,"... on Common Lisp.
+
+The library ecosystem is just so devoid of anything useful for finance-related use cases I'm just fucking tired of swimming upstream.  I have two strategies running, both written in lisp.  One is more-or-less feature complete and I'm going to just leave it in maintenance mode until profits dry up.
+
+I'm going to port the second one, which is a trend-following strategy that's still in the development/refining stage to something a little less hipster.  Not python because semantic indentation is for fucking insane people. 
+
+But probably C# or Go.  Mayyyybe C++ but I don't know if I have the energy for that.  I know the language reasonably well but, y'know, garbage collection is so convenient.
+
+I am open to suggestions.",https://reddit.com/r/algotrading/comments/1i8d51e/im_giving_up/,Infrastructure,0.56
+"Wondering if anyone knows of a library, don't really care which language, that will let me input a list of trades and then deliver performance metrics.",sourbrew,2025-01-23 22:20:27,7,15,"Basically what it says on the tin, ideally I'd be able to compare to a buy and hold strategy on the same instrument, although I could simply generate that as a separate list of trades.
+
+Should at least include annual performance, but would also like monthly.
+
+Bonus points would be the ability to implement a weighted portfolio, like 50% SPY 50% TLT.
+
+Additional points for rebalancing if one strat was flat and the other was long, and to be able to set a separate strategy for hedges, ie: if I was trading SPY, and it was flat, but an SH strategy was long it would load up on SH, but then rebalance into SPY if there was a SPY long signal.",https://reddit.com/r/algotrading/comments/1i836k1/wondering_if_anyone_knows_of_a_library_dont/,Infrastructure,0.82
+Anyone recommend against using PineScript + TradingView Alerts?,AncientKyogre,2025-01-23 22:14:31,5,8,"New to algotrading.  I have a webhook that connects my trading view alerts to MT4. It's functional  although I'm concerned that too many alerts may clog the system and cause latency issues.
+
+What else can I do except converting my pine script into an MT4 EA?",https://reddit.com/r/algotrading/comments/1i832dc/anyone_recommend_against_using_pinescript/,Education,1.0
+Books you'd recommend to someone getting started in algorithmic trading?,gotchab003,2025-01-23 05:15:05,56,60,"I currently work as a software developer and I'm interested in learning the basics about algorithmic trading, assuming I know pretty much nothing about it. I found a book named ""Algorithmic Trading and DMA: An introduction to direct access trading strategies"" by Barry Johnson, but it has mixed reviews, some people loved it, others found it worthless. Do you have any recommendation of books you found useful?
+
+Thanks a lot in advance!",https://reddit.com/r/algotrading/comments/1i7kqq4/books_youd_recommend_to_someone_getting_started/,Education,0.91
+Does ‘Sharing is Caring’ Apply to the Trading Industry?,dadiamma,2025-01-22 14:55:19,63,66,"I have a lot of profitable strategies (non-algo, but I’ve recently gotten into algo trading) that have made me more than enough. I wanted to help others by sharing some strategies that beginners can try. However, I’ve noticed many times on here and in other forums that people are hesitant to share their “secret sauce.”
+
+So, I wanted to understand why sharing might be a bad idea. Should I keep these strategies to myself? Would sharing them hurt the industry if these methods become widely known? After all, aren’t we just small fish in a big sea, so why would our individual edge matter?
+
+Sorry if this comes across as a silly question, but I’m genuinely wondering how I can give back to the community. In my primary field (digital marketing), which is where I’ve built my main wealth, I’ve often seen people openly share their “secret sauce” techniques.
+
+Note: Please don’t PM me asking for the strategies. I’m not interested in selling anything—just trying to earn some real-life karma points (not Reddit karma).",https://reddit.com/r/algotrading/comments/1i74fzw/does_sharing_is_caring_apply_to_the_trading/,Other/Meta,0.81
+Questions for those who created their own backtesting engines,Matusaprod,2025-01-22 10:16:37,63,57,"- Was it worth it? Would you do it again?
+- Are you profitable/full time algo trading?
+- If yes, would you focus on reaching consistent results before bothering with building a backtesting engine or vice-versa?
+- If not, besides gaining experience, would you still do it or not? If you're not consistent/profitable/trading for a living, why even bother to create your own engine?",https://reddit.com/r/algotrading/comments/1i6z0p0/questions_for_those_who_created_their_own/,Infrastructure,0.94
+"The simplest (dumbest) idea, but why wont just work?",Zenithine,2025-01-22 16:26:32,16,35,"I've been fixated on Renko bars lately because of their purity at showing price action irrespective of everything else. I had this idea for a NinjaScript strategy that - in theory - should work, but when I test in a sim account with different sized bars and slightly altered variables it just never churns out any profit at all.
+
+    if(
+      Position.MarketPosition == MarketPosition.Flat && // No positions currently open
+      Close[1] > Open[1] && // Previous bar was green
+      Close[0] > ema200[0] // we're above the EMA
+      )
+    {
+      EnterLong(1); // Open long position
+    }
+    
+    if(
+      Position.MarketPosition == MarketPosition.Long && // Currently long
+      Close[1] < Open[1] // Previous bar closed red
+      )
+    {
+      ExitLong(); // Close position
+    }
+
+I get that this braindead in its appearance, but when you look at a renko chart, the price spends more time moving distances than it does chopping up and down
+
+[image source: investopedia.com](https://preview.redd.it/udtclxxnyhee1.png?width=1500&format=png&auto=webp&s=8ab56b123e7a5621bfed254b3a81dcb10bbcbb77)
+
+In a back test against 1 month of data this strategy claimed 10's of thousands of dollars in profits across 20,000 total trades (profits include commissions).
+
+But in a live Sim test it was a big net loss. I'm struggling to understand why it wont work. maybe im dumb",https://reddit.com/r/algotrading/comments/1i75s1b/the_simplest_dumbest_idea_but_why_wont_just_work/,Strategy,0.81
+How to test strategies and back test them,Sweet-Dress4742,2025-01-23 00:56:11,1,19,"Hi,I am new to day trading and i see everybody talking about testing strategies and backtesting them,saying i have 65% success rate something or other.Like how do i do it and what is meaning of strategies here like you can’t predict the market right,a bot can’t do that right then how do they do it and what is the actual meaning behind it.please explain in detail about it and how to do it.",https://reddit.com/r/algotrading/comments/1i7eb17/how_to_test_strategies_and_back_test_them/,Education,0.52
+Library do you guys use for Backtesting,glaksmono,2025-01-21 19:38:43,42,49,"I'm considering to use [https://github.com/Grademark/grademark](https://github.com/Grademark/grademark)
+
+Is that pretty good? Any other suggestions?",https://reddit.com/r/algotrading/comments/1i6ftim/library_do_you_guys_use_for_backtesting/,Infrastructure,0.88
+Looking for one mediocre strategy idea to backtest on Futures data,SeagullMan2,2025-01-22 02:50:38,9,29,"Just looking for square one here. I have been actively backtesting and algotrading stocks for over 5 years. I would like to expand into the futures market. 
+
+As I am a total noob in this domain, I am wondering if someone could offer one idea for me to start backtesting. It doesn't have to be good. Just something that makes sense in the context of how Futures are traded. 
+
+For those with experience in both stocks and futures, what are the greatest differences that you have found in market behavior / dynamics?",https://reddit.com/r/algotrading/comments/1i6ohxq/looking_for_one_mediocre_strategy_idea_to/,Strategy,0.85
+Where can I get free intraday trading data for the past year or more?,DolantheMFWizard,2025-01-21 06:04:11,17,22,"I'm starting with trading. Right now I'm learning the ropes, trying some basic algorithms. I've been using yFinance, but they only let you get 1 month's worth of intraday trading data. I'd like to see how certain algorithms perform and hyperparameters tune them. Where can I get more intraday data for free so I can see how these algorithms perform in more situations?",https://reddit.com/r/algotrading/comments/1i6119h/where_can_i_get_free_intraday_trading_data_for/,Data,0.84
+How to Determine the Right Stop-Loss Percentage for Grid Bots?,dadiamma,2025-01-21 00:37:47,15,26,"
+I’m transitioning from manual trading to algorithmic trading, so I’m still a beginner in this space. While I’ve been able to create profitable grid bots, I’m struggling with one key aspect: determining the appropriate stop-loss amount or percentage.
+
+In manual trading, I used a strict 1% stop-loss rule, but applying this same approach in a [grid bot](https://www.binance.com/en/square/post/1282566825826) (if someone doesn’t know about grid bots here is the link) strategy has been problematic, especially since the bot executes around 500 trades per day. 
+
+When I use the 1% rule, positions often get stopped out too quickly. I suspect this is due to the unique dynamics of grid trading or the higher invested amounts the bot operates with.
+
+I’m not looking for advice on how to apply a stop-loss but rather how to calculate or decide on the most effective stop-loss percentage for a high-frequency grid bot. 
+
+What factors should I consider? 
+
+Are there frameworks or techniques that can help arrive at a stop-loss amount that balances risk and performance?
+
+Any guidance or insights would be greatly appreciated.
+
+TL;DR:
+
+Transitioning from manual trading to algo trading and struggling to determine the right stop-loss % for my grid bot (not how to apply it). My manual 1% stop-loss rule causes frequent stop-outs due to grid bot dynamics (500+ trades/day, higher investment). How do I calculate a suitable stop-loss % for high-frequency grid trading?",https://reddit.com/r/algotrading/comments/1i5swwp/how_to_determine_the_right_stoploss_percentage/,Other/Meta,0.81
+Making a fast TA lib for public use,RubenTrades,2025-01-20 11:52:18,23,37,"I'm writing a technical analysis library with emphasis on speedy calculations. Maybe it could help folks out?
+
+I ran some benchmarks on dummy data:
+
+➡️ EMA over 30,000 candles in 0.18 seconds 
+➡️ RSI over 30,000 candles done in 0.09 seconds
+➡️ SMA over 30,000 candles in 0.14 seconds
+➡️ RSI Bulk 100,000 candles in 0.40 seconds
+
+Not sure how fast other libraries are, or what it should be to be fast? (Currently it's single-threaded but I could add multi-treads and SIMD operations, just not sure what wasm supporst yet).
+
+All indicators are iterative, so if you get new live prices or new candles, it doesn't need to do the entire calculation again. 
+
+It's built in Rust and compiles to web assembly, so any web-based algos (python, json, js, ts) can calculate without blocking, and without garbage-collection slowdowns.
+
+Is there a need/want for this? Or should it stay a hobby project? What other indicators / pattern detection should I add?
+
+",https://reddit.com/r/algotrading/comments/1i5gdje/making_a_fast_ta_lib_for_public_use/,Infrastructure,0.82
+"Long time lurker, first time strategy",The_Nifty_Skwab,2025-01-20 05:19:55,71,50,"Hey r/algotrading, I've been a lurker for a while now but never tried anything myself. This weekend I had some free time so I decided to code one of the ideas I had. The algorithm itself isn't anything fancier than a logistic regression on custom TA indicators.
+
+Trained on a selection of S&P 500 stocks from 2020-2022 and tested on 2022-2025. With the test set I found:  
+\- annual returns = 110.7%  
+\- total wins/buys = 918/1336 (68.7%)  
+\- max drawdown = 15.8%  
+\- sharpe = 3.55
+
+I'm not a finance person so most of my knowledge comes from posts on this sub. I need to do some more backtesting but I'm going to start small with some paper-trading tomorrow and see how it goes!
+
+https://preview.redd.it/gh5l1ia1c0ee1.png?width=589&format=png&auto=webp&s=d8763d639a5b5d546e66fa53e80d5a9f155d6e05
+
+EDIT: I used a lot of the suggestions in the comments to fix errors related to fees, slippage, and bunch of other tiny issues. I'm now seeing a sharpe of 2.8, annualized returns around 80%, but I can't get my draw-down below 20%. Still have lots of work to do but it's promising so far!
+
+Edit2: nope",https://reddit.com/r/algotrading/comments/1i57xqi/long_time_lurker_first_time_strategy/,Strategy,0.97
+Looking for feedback on algo,Aggressive-Ad-7862,2025-01-20 13:51:28,6,34,"
+Hey everyone! I’ve been working on a Python-based algo trading bot for NIFTY long options in the Indian market and would love your input on how I can improve or optimize it. Here’s a quick rundown:
+
+
+---
+
+What the Bot Does
+
+1. Generates Signals:
+
+I pull real-time data for NIFTY, then run it through a custom “SignalGenerator” that uses indicators like a short EMA cross, MACD, RSI, Bollinger Bands, ATR-based volatility, etc.
+
+I distributed weights almost equally to two each of trend, momentum and volatility indicators. 
+
+It produces a simple directional signal—“CALL,” “PUT,” or “No Trade”—based on whether the combined indicator score crosses a certain threshold. It's written in such a way that at least two indicators need to fire positive. In fact, RSI acts opposite to these indicators if the trend goes into overbought or oversold territory, in which case there has to be a stronger signal from the other indicators to justify taking a position. 
+
+
+
+
+2. Manages Position Sizing:
+
+Right now, I keep it simple by allocating a fixed percentage (like 25%) of my capital for each trade. That way I’m not overexposed, but I’m still putting a sizable chunk of funds to work whenever a signal fires. I'm only experimenting and so I'm okay even if I lose the entire amount I put in. (1 lakh)
+
+I enter into NIFTY ATM long calls or puts based on the signal for which i fetch quote data synchronously and try to undercut the best bid by 10% more of the spread. If the order is not filled, the bot keeps monitoring and modifies the limit price until the order gets filled. Of course i also have logic written for slice orders. Generally in the rare instances it gets partially filled, the next modification almost always fills the order.
+
+
+The bot also tracks my total daily PnL and will stop trading if I hit a max profit or max loss for the day. Reason i stop after a max profit is to avoid over trading.
+
+I also only enter one position at a time, as it's simpler that way. My broker is Dhan and although they do provide asynchronous data, they only allow quote data for one ticker per second. Which seems too slow to manage multiple positions.
+
+
+
+3. Uses a Single Stop Loss & Target Profit:
+
+I used to experiment with dynamic SL/TP that changed based on ADX (trending vs. sideways), but the backtests showed better consistency with just one fixed SL/TP across the board.
+
+So currently, as soon as a buy order is filled, the bot sets a stop loss (say 10% below entry) and a target profit (50% above entry), and just runs with that. I also run with a trailing Stop loss based on ATR volatility once my TP is reached, so that I ride waves, but also lock in profits in case direction reverses.
+
+I know it's a wide SLTP, but I'm only betting on large moves that come once in a while. And based on my back testing with 9 years historical NIFTY minute data, it appears those few times are good enough to recoup the losses and gain decent profits. The signal seemed to have a 30% right prediction for this risk reward of 1:5+, which netted great profits.
+
+This SLTP makes me more of a positional trader than someone who's competing with HFTs which is impossible.
+
+4. Logs Trades to MySQL:
+
+Every partial fill or complete fill gets inserted into a MySQL database. That way, I can review how trades played out—including timestamps, fill prices, rejections/cancellations, etc.
+
+This helps me keep solid records and run my own analytics on the data later.
+
+
+
+5. Additional Safeguards:
+
+If the signal says “No Trade,” the bot just waits for the next check—pretty standard.
+
+Once we’re near market close, it attempts to exit any open position and cancels pending orders.
+
+I also have a “kill switch” that triggers if daily losses get too large, so the bot doesn’t spiral out of control if something goes wrong.
+
+6. Backtesting:
+I could get my hands on Nifty minute data from 2015-2024. I used it to estimate option prices using Black Scholes, while considering the immediate next Thursday to be expiry date, for simplicity. 
+
+ I also estimated additional entry and exit charges (broker, STT etc.). I also considered 1% slippage, just to keep with realism that I won't always get my prices.
+
+I then created a pytest file that runs the actual main.py, but just emulates datetime and broker calls. This way the actual trading script got tested with the historical data.
+
+
+
+---
+
+What I’d Love Feedback On
+
+Signal Generation: what do you think of my approach? I also have code written for a VWAP indicator which uses The nearest NIFTY futures volume data real-time. But somehow it didn't seem so good at giving signals in practice. 
+
+
+Also, i tried to create an RL agent for complementing my signal generator that uses technical indicators. But it seemed to be too much effort and I'm just not good enough to build something that works. Instead I though of sticking to the simpler approach. What are your experiences?
+
+
+Position Management: Right now it’s a simple “25% capital per position” approach. Is there a more adaptive method you’d recommend (e.g., ATR-based sizing, volatility-based sizing)?
+
+Expiry date to trade: I made my code so that I can decide which expiry date to trade in. Since I'm long, would it be better to go one level past the nearest expiry?
+
+Edge Cases: If you see anything missing—like a plan for major volatility spikes or weird partial fill issues—please let me know!
+
+
+
+---
+
+Thanks in Advance!
+
+I really appreciate any thoughts or suggestions. I’m still ironing out the kinks, so the more perspectives, the better. If you’ve done something similar or see any obvious pitfalls, I’d love to hear from you.
+
+Cheers!
+",https://reddit.com/r/algotrading/comments/1i5ihe6/looking_for_feedback_on_algo/,Strategy,0.8
+What Python Trading Platform/API?,im-trash-lmao,2025-01-19 16:32:52,68,33,"Looking for opinions and suggestions on the best trading platforms and APIs with Python support. I have a Python trading strategy ready to deploy, but not sure which platform to deploy to.
+
+Anyone have any experiences or recommendations? Anything would be very helpful and appreciated! 
+
+I’ve heard a lot of Alpaca or Interactive Brokers. Curious to see the sentiment regarding these two. Anyone have any suggestions or insights?",https://reddit.com/r/algotrading/comments/1i4t9e6/what_python_trading_platformapi/,Infrastructure,0.99
+[Max Drawdown] When to use realized vs. unrealized gains?,bravosierra1988,2025-01-20 10:14:52,2,8,"I am working on a long term swing trading strategy using LETFs. In one particular trade for example, the strategy buys before a major peak and ultimately sells near break even. 
+
+If I track from the peak of unrealized gains to the sell order, it is almost -30%. If I track from when it bought to when it sold, it’s actually +2%. 
+
+My question is, what’s the proper way to do this? Is there a mathematical standard? Are they both useful metrics different reasons? Do we only care about realized drawdown during backtesting?",https://reddit.com/r/algotrading/comments/1i5eiwt/max_drawdown_when_to_use_realized_vs_unrealized/,Strategy,1.0
+Automated NQ Strategy Performance plus explaination,uCorgi,2025-01-19 22:47:30,17,28,"[buy\/sell bb breakout strat on 2 con nq over last \~80 days](https://preview.redd.it/nx5xcs6mfyde1.png?width=1455&format=png&auto=webp&s=cebbaf8d76106131ff43dd1fbd06e014b63ad99c)
+
+My last post got taken down for being useless so I'm adding a wall of yap this time
+
+The chart above if reddit loads it is the p/l graph of a single automated strategy forward tested over the last 80ish trading days using live non sim data and including fees and slippage. I have been using it live past the dec31 mark and can confirm this chart is accurate.
+
+The strategy (2 con nq) uses a bollinger band squeeze with cci to confirm direction as an entry, then has a take profit at 100 ticks and no set stop loss (however another setup will close the trade). After all of this it compared the direction to another strategy on the daily frame and if they match the trade is taken.
+
+so far it is doing good, maybe too good, but i use it with my account that has 4 times the max drawdown on the chart just to be safe.
+
+the system is automated and uses tradingview webhooks to send orders, i know people here like to bitch and whine about tv but I've had zero problem, plus the response time is like 500 milliseconds at most on a strategy that uses 5 minute candles so yea  
+I'm not selling anything so don't call me a scammer in comments",https://reddit.com/r/algotrading/comments/1i4ysgs/automated_nq_strategy_performance_plus/,Strategy,0.84
+Anyone tried TrendSpider's Predictive AI Trading Models ?,MarkFisher4552,2025-01-20 09:11:14,0,2,"TrendSpider have this new feature now, where their AI Algorithm will write profitable trading strategies by itself? Anyone have any experience using this or Trendspider's strategy back-testing platform as a whole ?",https://reddit.com/r/algotrading/comments/1i5d9ef/anyone_tried_trendspiders_predictive_ai_trading/,Strategy,0.25
+I overthing a lot just because I'm not 100% sure it can be possible to make a living out of this,Matusaprod,2025-01-19 01:22:42,87,124,"**EDIT:** Thank's everyone for your kind messages. I'll keep this thread saved and read it again when necessairy.
+
+Hi everyone.
+
+I've been studying trading since 4 years, it was more a side thing up until recently because I have most of my focus on getting a degree. My main goal would be to be an indipendent algorithmic trader as a profession. My two passions are coding and trading, there's nothing I enjoy doing more.
+
+There is just one problem. Due to my accademic studies (quant. finance) I was basically ""brainwashed"" by my professors that would constantly say for 4 years straight that it's not possible to be a profitable retail trader long term, due to efficient markets (which everyone knows there are efficiencies but not exploitable by a simple guy on his room). This coupled witht the fact that everywhere I try to learn something I do some background check on WHO is teaching and all the times: no track records, seems legit guy and then when you go on his website you find one of those sketchy landing pages.
+
+I enjoy trying and coding strategies, I found the simpler ones are those that tend to give better results. But the problem is that I'm not 100% convinced it can be possible to make a living out of this. Sometimes I have these periods where I end up in overthinking because I wonder if I'm just wasting my time and should be doing something else.
+
+I think I just need some ""proof"" that it can be done. So far I found just ONE example: Jerry Parker which was a turtle trader and now running a firm that is active since many years (and it does not seem that they do HFT stuff based on interviews of him).
+
+So I guess my question boils down to: what makes you have 'fatith' on pursuing this thing and believing it can be done consistently over the years? Again, not taling about the type of trading they do at HFT firms like Optiver, Jane Street and so on.",https://reddit.com/r/algotrading/comments/1i4b2l3/i_overthing_a_lot_just_because_im_not_100_sure_it/,Other/Meta,0.88
+"Barchart, A good source of historical data?",LachiePro,2025-01-19 15:03:03,4,0,"I've been building datasets for developing algorithms for trading futures (Grains & Energy).
+
+With the free trials that [Barchart.com](http://Barchart.com) offer, is it a reliable provider for historical data or would I be better fit going with other data providers? (if so who?).
+
+Looking at the data, it looks to be reliable, obviously no data is perfect, I'm just worried that I go down the route of using subpar data and wasting my time. ",https://reddit.com/r/algotrading/comments/1i4rx32/barchart_a_good_source_of_historical_data/,Data,0.84
+Give Me Your Algorithm,ImportantPerformer97,2025-01-20 08:15:03,0,28,"Okay, the point of the post isn’t actually for you to give me your algorithm. Rather, during my trial and errors the last few weeks (read: months) I’ve learned so much! Mostly I’ve learned how little I know. I’ve built and tested and backtested and front tested and around tested. I’ve debugged and rebugged. 
+
+What I would like is to see an example of an algorithm that works. It doesn’t have to work that well, maybe not even at all. I just want to connect some dots on things I might (must) be missing. Really, I want to see someone else’s implementation of algorithmic trading, even if it sucks. Doesn’t even have to be yours, could be the guy you hate who leaked it on github accidentally. 
+
+tl;dr can you show me an algo other than the one I’ve built?",https://reddit.com/r/algotrading/comments/1i5c2jb/give_me_your_algorithm/,Strategy,0.37
+"Without revealing your edge, tell us how you found your edge..",Gear5th,2024-12-27 17:34:22,229,177,"I see posts every now and then asking for guidance on ""how to find an edge"" in algotrading. And for good reason - finding an edge is the most elusive part, and it is what separates you from the herd.
+
+
+For those who have *found your edge* (no need to reveal it, of course), how did you get there? Specifically:
+
+- What was your process or approach to finding it?
+- How long did it take for you to find the edge?
+- What were there key turning points or ""aha!"" moments along the way?
+- What mistakes or dead ends taught you the most?
+- How did you validate that what you found was truly an edge?
+
+
+PS: the goal here is to spark a discussion that helps others think about the process without giving away specifics. Whether you relied on rigorous backtesting, deep market research, unique data sources, or just good old persistence, every bit counts!",https://reddit.com/r/algotrading/comments/1hnalq5/without_revealing_your_edge_tell_us_how_you_found/,Strategy,0.97
+I am currently live testing my altcoins trading bot 🤗,17J4CK,2025-01-17 06:49:26,208,112,,https://reddit.com/r/algotrading/comments/1i30cej/i_am_currently_live_testing_my_altcoins_trading/,Data,0.94
+"Silly Hype trading bot that combines sentiment scanning/ranking with a TA confirmation layer, feel free to clone",morritse,2025-01-13 06:14:12,139,29,"[repo](https://github.com/Morritse/SentimenTA)
+
+*EDIT* MAJOR UPDATE as of 1/13/24. Adjusted position ranking, added active monitoring on a 5m loop to exit any positions which are reversing/crashing and entering new ones 
+
+Please feel free to suggest changes and I'll be happy to update
+Currently averaging ~.5%/day 
+
+The bot follows a two-step process:
+
+Manage Existing Positions:
+
+Analyze each position with side-specific technical analysis
+Check momentum direction against position side
+Close positions that meet exit criteria:
+Negative momentum for longs (< -2%)
+Positive momentum for shorts (> +2%)
+Technical signals move against position
+Stop loss hit (-5%)
+Position age > 5 days with minimal P&L
+Over exposure with weak technicals
+
+
+
+Find New Opportunities:
+
+Screen for trending stocks from social sources
+Calculate technical indicators and momentum
+Rank stocks by combined social and technical scores
+Filter candidates based on:
+Long: Above 70th percentile + positive momentum
+Short: Below 30th percentile + negative momentum
+Stricter thresholds when exposure > 70%
+Place orders that will execute when market opens",https://reddit.com/r/algotrading/comments/1hzx5s8/silly_hype_trading_bot_that_combines_sentiment/,Strategy,0.95
+My TV Indicator that catches Lows with backtest,Professional-Bar4097,2024-12-31 09:33:16,121,70,"Hello, I was told to post my indicator on here so thats what I am doing. The link to it is at the bottom of this post.
+
+It is pretty reliable at catching lows and bottoms as seen in the backtests. I am going to backtest on a lower tf at some point when I have time to.
+
+Here is a copy and paste of my post on tradingview:
+
+Hello everyone, to those who have been trying out my indicator thank you :) 
+
+Everyone was asking for a backtest so I figured out a good strategy for it using only the indicator for entries and exits. It was tested on the ES 1 day (D) chart.
+
+I tested it on something I would actually trade on. I do not know how these exact entry and exit settings and indicator settings would act on other tickers or timeframes.
+
+The leveraged backtest uses the VIX to determine the amount of leverage used.
+
+Commission was accounted for in every trade using IBKR fees. $2.25 per contract per side.
+
+Slippage was not accounted for as I cannot reliably generalize slippage, especially if only 133 trades were taken. Slippage wouldnt likely heavily occur until around 1,000 contracts traded at once. Because of this, the leveraged backtest could in reality return more or less than what it shows as positive slippage could also occur.
+
+In the code shown in the pictures ""(Short Condition)"" does not short anything. I just never changed the default name. It uses a stoploss. Just wanted to write this in case there was any confusion in regards to the ""(Short Condition)"".
+
+In the code, in the position size section, 50 represents 1:1 leverage. 3 represents 16.6:1 leverage. 12.5 represents 4:1 leverage.
+
+Entries: Entries happen when a green arrow is present. It enters the position on the open of the following bar.
+
+Exits: Exits only happen when the current blue line (Pressure Weighted) value is lower than the previous blue line (Pressure Weighted) value. It exits the position on the following bar using a stop loss calculated by the close of the previous bar.
+
+The indicator settings I used can be found on the chart. These usually have to be messed with for different tickers and tfs.
+
+An update will be released to the indicator as soon as this is posted.
+
+Updates include:
+
+A volatility filter setting to filter out arrows during certain volatility.
+
+Vix Weighted Arrows were added. These use the VIX as a weight to add VIX weighted specific arrows in purple. (These were not used in thr backtest)
+
+A Vix Weighted Arrows setting to adjust the weight volatility plays in producing the purple arrows.
+
+This is not new to the update, but every line on the chart is adjustable. This is important because the indicator reacts differently depending on the ticker and timeframe allowing users to easily implement the indicator into there strategy.
+
+The indicator is still free and you can use it here:
+https://www.tradingview.com/script/OXwgA1au-Weighted-Volumetric-Pressure/",https://reddit.com/r/algotrading/comments/1hq25v1/my_tv_indicator_that_catches_lows_with_backtest/,Strategy,0.82
+Hundreds of quant papers from #QuantLinkADay in 2024,shock_and_awful,2025-01-06 09:28:37,122,13,"Happy new year all. 
+
+Came across this and thought it might be share worthy.
+I have no affiliation whatsoever. Hope it helps someone!
+
+https://turnleafanalytics.com/hundreds-of-quant-papers-from-quantlinkaday-in-2024/
+ 
+Edit: here are some examples from the list:
+
+01-Jan / FX / Exotic Currencies and the Frontier Premium in Foreign Exchange Markets
+
+02-Jan / Machine Learning / Causal Discovery in Financial Markets: A Framework for Nonstationary Time-Series Data
+
+03-Jan / Economics / European Football Player Valuation: Integrating Financial Models and Network Theory
+
+04-Jan / Trading / Intraday Trading Algorithm for Predicting Cryptocurrency Price Movements Using Twitter Big Data Analysis",https://reddit.com/r/algotrading/comments/1hulzun/hundreds_of_quant_papers_from_quantlinkaday_in/,Education,0.98
+Hurst Exponent shows that 95% of the time in the market is mean reverting?,Noob_Master6699,2025-01-02 02:10:54,119,49,"I ran hurst exponent on nasdaq in 1min, 5min, 30min timeframe and only about 5-8% of the time the market is trending and over 90% of the time the market is mean-reverting.
+
+1. Is this something I expected to see? I mean most of the time when the market open, it is quite one-sided and after a while, it settled and started to mean revert
+
+2. I am trying to build a model to identify (or predict) the market regime and try to allocate momentum strategy and mean reverting strategy, so there other useful test I can do, like, Hidden Markov Model?",https://reddit.com/r/algotrading/comments/1hr77sy/hurst_exponent_shows_that_95_of_the_time_in_the/,Strategy,0.95
+How do you all automate your trading?,4fgmn4,2025-01-06 01:27:45,115,96,"Hi
+
+I’ve got a handful of strategies I trade on the daily timeframe. Currently I’m running my code in the last 10 minutes of RTH and then going to my broker and executing whatever it says. I would like to remove this chore from my life. What platforms/apis do you all recommend?
+
+Edit: I know how to write code. I don’t want to hire anyone. I’m not sharing my strategy.",https://reddit.com/r/algotrading/comments/1huaqp4/how_do_you_all_automate_your_trading/,Infrastructure,0.96
+Beware or AI Generated garbage posing as Algo trading books on Amazon,clisztian,2025-01-09 19:55:01,106,32,"An Amazon, there’s a flood of books that claim to be part of a series on Algo trading by an “author” named Jamie Flux with crazy price tags. These are all AI generated garbage that was spit out by an LLM. While there could be useful information in them, you can get all the knowledge for free using your own ChatGPT queries.
+
+Here’s an example
+
+High-Frequency Trading Algorithms and Real-Time Market Analysis With CUDA (The Artificial Edge: Quantitative Trading Strategies with Python) https://a.co/d/2naIIt6",https://reddit.com/r/algotrading/comments/1hxaaiq/beware_or_ai_generated_garbage_posing_as_algo/,Other/Meta,0.97
+What tech stacks do you like to use to implement algotrading at work or for yourself? ,haramicock,2025-01-09 09:39:26,93,74,"I got into trading/algotrading only a few years back so I am curious what people prefer using. Also would like to know what you guys use at work if you do algotrading professionally. I specifically want to know what's the best software tooling that people in the industry use, and for what use cases. Any other comments or things of note/interest that you have come upon within this tooling space would also be appreciated.",https://reddit.com/r/algotrading/comments/1hx00en/what_tech_stacks_do_you_like_to_use_to_implement/,Infrastructure,0.93
+Sharing a mistake I made in designing my trading model,HaxusPrime,2025-01-02 07:23:10,72,29,"Instead of minimizing MSE or MAE, I was trying to maximize Sharpe Ratio. Big Oops! Come to find out, Sharpe really matters later in the game after one backtests, forward tests, simulates the trading model. Makes sense to me now but I'm a big noob. Only put about 300-350 hours into this so far. ",https://reddit.com/r/algotrading/comments/1hre8y0/sharing_a_mistake_i_made_in_designing_my_trading/,Strategy,0.91
+Looking for providers for historical level 2 US stock data,CountMacaroni,2024-12-30 19:27:31,69,12,"Me and a partner are building our first trading algorithm and have gotten it to a stage where we are ready to begin testing our project. We are looking for options for potential providers for historical level 1 and historical level 2 data going back at around 3 years for our specific strategy. Additionally, we are looking to, if possible, stay within a budget of $500/month if possible but we can feasibly stretch ourselves out to $1,000/month if it is worth it. 
+
+After doing a bit of research, it is my understanding that the [Polygon.io](http://Polygon.io) basic package ($30/month) should likely suffice for the simple purposes of testing our model using historical data, which is what we want to do at this point, but Polygon does not yet support historical level 2 data from what I've seen. Our goal is to spend the smallest amount of money necessary to access the minimally viable level 1 & level 2 historical data required for testing. At this point, we are just looking to get things up to running in a testing phase where we are actually able to backtest our strategies before deciding if we want to continue on to a more advanced, more dedicated implementation that has the potential to require more financial and technological resources.
+
+I've read posts in the past about this specific request but have had difficulty navigating them, if I could have some assistance with this matter it would be very helpful, as I'm coming solely from a computer programming background whereas my partner on this project has most of the financial expertise. Thanks in advance.",https://reddit.com/r/algotrading/comments/1hpkera/looking_for_providers_for_historical_level_2_us/,Data,0.99
+IBKR API... Where do I start?,PhishyGeek,2024-12-30 12:31:28,68,45,"Experienced software engineer here looking to automate the selling part of my trading process (excellent buyer, terrible seller). 
+
+Of course I immediately turned to my personal assistant to help me (chatgpt) and it recommends the ib-insync library. Turns out, that codebase is not being updated do to the creators death. Prob not smart of me to use it since I'm hooking it up to a financial account lol.   
+  
+So now what? I've seen ib-async out there, or I could spend some time (sad emoji) learning the IBAPI. As a software dev, I generally prefer to just learn the api and write my own code but damn these docs... where even do I start? Theres like 20 entry points for the api documentation. 
+
+Anywho, would really appreciate someone pointing me to the best place to start. If we all agree to use a library, great, but if the recommendation is to use the IBAPI with my own code, can someone link me to the proper API docs (i.e Client Portal Web api, TWS API, or the Web API)? 
+
+I'm assuming I should start reading the [web api docs](https://www.interactivebrokers.com/campus/ibkr-api-page/webapi-doc/), so I'll start there until someone tells me otherwise. 
+
+TIA!",https://reddit.com/r/algotrading/comments/1hpdy7f/ibkr_api_where_do_i_start/,Infrastructure,0.92
+Is there a good source for intro to algo trading?,humpmeimapilot,2024-12-30 02:46:45,66,35,"Hello all
+Newbie here wondering if there is a good source for learning the basics of building an algorithm for doing this trading process?
+
+I have basic knowledge of options futures and other types of trading but not how to combine that with algorithms. 
+
+Thanks!",https://reddit.com/r/algotrading/comments/1hp1bed/is_there_a_good_source_for_intro_to_algo_trading/,Education,0.93
