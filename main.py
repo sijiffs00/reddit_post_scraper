@@ -1,6 +1,7 @@
 import praw
 import pandas as pd
 from datetime import datetime
+from googletrans import Translator
 
 # Reddit API 접속 정보 설정하기
 reddit = praw.Reddit(
@@ -9,8 +10,12 @@ reddit = praw.Reddit(
     user_agent="post_scraper/1.0 (by /u/sojung_dev)"  # 너의 앱 이름과 사용자명
 )
 
+# 번역기 초기화
+translator = Translator()
+
 def get_subreddit_posts(subreddit_name, post_limit=50, post_type='hot'):
     """서브레딧의 게시물을 가져오는 함수"""
+    print(f"{post_type} 게시물 수집 시작...")  # 진행 상황 표시
     subreddit = reddit.subreddit(subreddit_name)
     
     # 게시물 종류 선택하기 (인기순/최신순/상위권)
@@ -22,7 +27,8 @@ def get_subreddit_posts(subreddit_name, post_limit=50, post_type='hot'):
         posts = subreddit.top(limit=post_limit, time_filter='month')  # 한달 기준
     
     post_data = []
-    for post in posts:
+    for i, post in enumerate(posts, 1):
+        print(f"게시물 {i}/{post_limit} 처리 중...")  # 진행 상황 표시
         # 게시물이 삭제되지 않았는지 확인
         if not post.removed_by_category:
             # 작성시간을 한국 형식으로 변환
@@ -30,13 +36,24 @@ def get_subreddit_posts(subreddit_name, post_limit=50, post_type='hot'):
             formatted_time = created_time.strftime("%y.%-m.%-d %p %-I:%M")\
                 .replace("AM", "오전").replace("PM", "오후")
             
+            # 제목과 내용 번역하기
+            try:
+                translated_title = translator.translate(post.title, dest='ko').text
+                translated_content = translator.translate(post.selftext, dest='ko').text if post.selftext else ''
+            except Exception as e:
+                print(f"번역 중 오류 발생: {e}")
+                translated_title = post.title
+                translated_content = post.selftext
+            
             data = {
-                '제목': post.title,
+                '제목': translated_title,  # 번역된 제목
+                '원본제목': post.title,    # 원본 제목도 저장
                 '작성자': post.author.name if post.author else '[삭제됨]',
-                '작성시간': formatted_time,  # 형식 변경된 시간
+                '작성시간': formatted_time,
                 '추천수': post.score,
                 '댓글수': post.num_comments,
-                '내용': post.selftext,
+                '내용': translated_content,  # 번역된 내용
+                '원본내용': post.selftext,   # 원본 내용도 저장
                 'URL': f'https://reddit.com{post.permalink}',
             }
             # 알고트레이딩 관련 키워드가 있는 게시물만 저장
@@ -49,10 +66,10 @@ def get_subreddit_posts(subreddit_name, post_limit=50, post_type='hot'):
 
 # 메인 실행 코드
 if __name__ == "__main__":
-    # 여러 종류의 게시물 가져오기
-    hot_posts = get_subreddit_posts('algotrading', post_limit=50, post_type='hot')
-    new_posts = get_subreddit_posts('algotrading', post_limit=30, post_type='new')
-    top_posts = get_subreddit_posts('algotrading', post_limit=20, post_type='top')
+    # 게시물 수 줄이기
+    hot_posts = get_subreddit_posts('algotrading', post_limit=20, post_type='hot')
+    new_posts = get_subreddit_posts('algotrading', post_limit=10, post_type='new')
+    top_posts = get_subreddit_posts('algotrading', post_limit=10, post_type='top')
     
     # 모든 데이터 합치기
     all_posts = pd.concat([hot_posts, new_posts, top_posts])

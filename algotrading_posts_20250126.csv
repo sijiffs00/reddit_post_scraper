@@ -1,5 +1,13 @@
-﻿제목,작성자,작성시간,추천수,댓글수,내용,URL
-"Weekly Discussion Thread - January 21, 2025",AutoModerator,25.1.21 오후 8:01,3,2,"This is a dedicated space for open conversation on all things algorithmic and systematic trading. Whether you’re a seasoned quant or just getting started, feel free to join in and contribute to the discussion. Here are a few ideas for what to share or ask about:
+﻿제목,원본제목,작성자,작성시간,추천수,댓글수,내용,원본내용,URL
+주간 토론 스레드 -2025 년 1 월 21 일,"Weekly Discussion Thread - January 21, 2025",AutoModerator,25.1.21 오후 8:01,3,2,"이것은 알고리즘과 체계적인 거래에 대한 모든 것에 대한 공개 대화를위한 전용 공간입니다. 노련한 수량이든 방금 시작하든 자유롭게 참여하고 토론에 기여하십시오. 다음은 공유하거나 물어볼 내용에 대한 몇 가지 아이디어입니다.
+
+*** 시장 동향 : ** 오늘 시장에서 무엇을 움직이고 있습니까?
+*** 거래 아이디어 및 전략 : ** 탐구하고있는 통찰력을 공유하거나 논의합니다. 당신은 무엇으로 성공을 찾았습니까? 다른 사람들이 피할 수 있다는 실수는 무엇입니까?
+*** 질문 및 조언 : ** 개념, 도서관 또는 응용 프로그램에 대한 피드백을 찾고 계십니까?
+*** 도구 및 플랫폼 : ** 도구, 데이터 소스, 플랫폼 또는 기타 유용한 리소스에 대해 토론하십시오.
+*** 초보자를위한 리소스 : ** 커뮤니티에 새로운 방법? 주저하지 말고 질문을하고 다른 사람들로부터 배우십시오.
+
+대화를 존중하고지지하는 것을 잊지 마십시오. 우리 커뮤니티는 서로 성장하도록 돕기 위해 여기에 있으며, 사려 깊고 건설적인 기여는 항상 환영합니다.","This is a dedicated space for open conversation on all things algorithmic and systematic trading. Whether you’re a seasoned quant or just getting started, feel free to join in and contribute to the discussion. Here are a few ideas for what to share or ask about:
 
 * **Market Trends:** What’s moving in the markets today?
 * **Trading Ideas and Strategies:** Share insights or discuss approaches you’re exploring. What have you found success with? What mistakes have you made that others may be able to avoid?
@@ -8,7 +16,15 @@
 * **Resources for Beginners:** New to the community? Don’t hesitate to ask questions and learn from others.
 
 Please remember to keep the conversation respectful and supportive. Our community is here to help each other grow, and thoughtful, constructive contributions are always welcome.",https://reddit.com/r/algotrading/comments/1i6g58b/weekly_discussion_thread_january_21_2025/
-insight on Pumpportal vs bitquery for Pump.fun api,Normal-Astronomer-83,25.1.26 오전 5:06,3,0,"Hi all, what a thought a complete beginner wishes to make an AI trading bot for meme coins; I know, I know. 
+펌프에 대한 통찰력 vs pump.fun api의 비트 쿼리,insight on Pumpportal vs bitquery for Pump.fun api,Normal-Astronomer-83,25.1.26 오전 5:06,4,0,"안녕하세요, 완전한 초보자가 밈 동전을위한 AI 트레이딩 봇을 만들고자하는 생각입니다. 알아요. 
+
+글쎄, 나와 함께. 
+
+  
+이 프로젝트를 시작하면서 경험이있는 사람 이이 타사 API 제공 업체 중 하나에 대해 할 말이 있으면 궁금합니다. 
+
+  
+감사해요!","Hi all, what a thought a complete beginner wishes to make an AI trading bot for meme coins; I know, I know. 
 
 Well, bare with me. 
 
@@ -17,7 +33,52 @@ As I embark on this project, I'm curious if anyone with experience has anything 
 
   
 Thanks!",https://reddit.com/r/algotrading/comments/1i9vpfa/insight_on_pumpportal_vs_bitquery_for_pumpfun_api/
-Anyone interested in deeper networking?,_melfice_,25.1.25 오전 7:54,66,56,"Hey all,
+더 깊은 네트워킹에 관심이 있는 사람이 있나요?,Anyone interested in deeper networking?,_melfice_,25.1.25 오전 7:54,68,56,"안녕하세요 여러분,
+
+한동안 여기에 있었고 내 위치에 있거나 더 잘하고 있는 사람들, 또는 내가 막 자리를 잡기 시작한 몇 년 전의 사람들과 더 많은 네트워킹에 관심이 있었습니다.
+
+비슷한 상황에 있는 사람들의 그룹처럼 매일 또는 매주 더 많은 사람들과 채팅할 수 있는 사람들이 있으면 좋을 것입니다. 나는 수년 동안 이 서브에서 사람들과 멋진 대화를 나눴고 직장에서 그랬던 것처럼 다른 사람들과 풀타임으로 채팅하는 측면이 정말 그리워요. 
+
+* **이동됨** *
+
+**이 그룹 중 하나에 속해 있고 무언가를 시작하고 싶다면 DM을 보내주세요. 그렇지 않다면 나는 \*\*\* 꺼지고 다시는 이런 게시물을 만들지 않을 것입니다.**
+
+저는 데이 트레이더나 소품/버킷 숍 트레이더와 함께 이것을 시도했지만 결국 소음이 많이 발생했습니다. 대화의 내용 중 상당 부분이 자신의 손익에 따라 매일 변동되기 때문에 대화는 정말 짜증나거나 해롭습니다. 그것들은 또한 오래 지속되지 않는 것 같은데, 이는 그 자체로 우울한 일입니다.
+
+나는 당신의 알파에 관심이 없습니다. 명시적인 알파에 대해서는 절대로 논의하지 않는다는 엄격한 규칙이 있을 수도 있습니다. 이 일을 생계를 위해 수행하는 데는 힘든 날/dds에 대한 위로, 중요한 날 또는 비즈니스/프로세스에 대한 큰 업데이트/이정표, 기술 대화(알파/IP 관련 아님), 어떻게 이 일이 일어나는지 등 많은 다른 요소가 있습니다. 어떤 것들이 당신의 삶에 영향을 미칠 수도 있고, 아마도 일반적인 환기, 일반적인 시장 대화 및 추측에 영향을 미칠 수도 있고 잠재적으로 일부 irl 모임을 할 수도 있습니다.
+
+**내 배경:**
+
+저는 FAANG에서 10년 동안 일했고, 트레이딩 봇을 구축하기 위해 경력을 그만뒀습니다. 그건 2년 전 일이고, 이 사업을 확장하고 사업으로 만드는 방법을 서투르게 배운 후 지금은 대략 150만 자산가를 보유하고 있습니다. 상황을 안정화하는 데는 갈 길이 멀었고 논의할 내용도 훨씬 더 많습니다. 하지만 저는 엄청난 비난을 쓰고 싶지 않습니다. 저는 현재 계속해서 성장하고 장기적으로 시장에서 살아남기 위한 5개년 계획을 실행하고 있으며 막 실행하기 시작했습니다. 
+
+  
+**채팅에 관심이 있는 사람들**
+
+**내 입장에서는:**
+
+\- 1~2년 동안 이 일을 풀타임으로 수행
+
+\- 기술적 배경
+
+\- 아직 사업 규모를 확장하는 중입니다.
+
+\- 이제 막 실행하기 시작한 장기 계획을 가지고 있습니다.
+
+**나보다 더 잘함:**
+
+\- 2년 이상의 풀타임
+
+\- 사업 분야에서 더욱 확고한 입지를 다졌습니다.
+
+\- 현재 실행 중인 장기 계획이 이미 있습니다.
+
+**2년 전의 나:**
+
+\- 잘 작동하기 시작한 무언가를 만들었습니다.
+
+\- 풀타임으로 일하기 위해 직장/경력을 그만두는 과정에서
+
+\- 장기 계획/목표에 대해 생각하는 것뿐입니다.","Hey all,
 
 Been here a while and interested in networking more with people either in my position, doing better, or me from a few years ago when I was just starting to get established.
 
@@ -65,7 +126,20 @@ I worked in FAANG for a decade and left my career to build trading bots full tim
 \- Just thinking about their long term plans/goals
 
   ",https://reddit.com/r/algotrading/comments/1i98hh3/anyone_interested_in_deeper_networking/
-What is the Monte Carlo method used for in backtesting?,aitorp6,25.1.25 오전 2:22,43,27,"Hi!
+백 테스트에 사용되는 Monte Carlo 방법은 무엇입니까?,What is the Monte Carlo method used for in backtesting?,aitorp6,25.1.25 오전 2:22,47,27,"안녕!
+
+나는 동일한 하위 레딧의 다른 게시물에 있는 댓글에 대한 응답으로 물었지만 답변을 받지 못했습니다. 
+
+문제는 Mote Carlo 방법이 무엇인지 알고 있지만 백테스팅에 어떻게 사용될 수 있는지 상상할 수 없다는 것입니다. 무작위성에 대한 변수 주제는 무엇입니까? 가우스 분포 또는 다른 분포와 함께 사용됩니까?
+
+
+
+ 혹시 간단한 예를 들어주실 수 있나요? 
+
+
+편집 1: 몇 가지 오타가 수정되었습니다.
+
+편집 2: 답변해 주셔서 감사합니다. 몇 가지 좋은 아이디어와 흥미로운 토론이 있었습니다. 답변해 주셔서 감사합니다. 나는 이러한 아이디어를 처리하고 완전히 이해해야 합니다.","Hi!
 
 I asked as a response to a comment in another post, in this same sub-reddit, bay I had not repsonse. 
 
@@ -79,7 +153,29 @@ The thing is that I know what a Mote Carlo method is, but i can't imagen how can
 Edit 1: couple of typo fixed
 
 Edit 2: thank you all for your answers. There have been some good ideas and some interesting discussions. thank you all for your answers. I need to process these ideas and fully understand them.",https://reddit.com/r/algotrading/comments/1i90odm/what_is_the_monte_carlo_method_used_for_in/
-Regime focus in Backtesting - How important is it?,JonnyTwoHands79,25.1.25 오전 4:41,8,10,"Hey everyone,
+백테스팅의 정권 초점 - 얼마나 중요합니까?,Regime focus in Backtesting - How important is it?,JonnyTwoHands79,25.1.25 오전 4:41,8,10,"안녕하세요 여러분,
+
+특히 전략이 가장 최근의 체제에 과적합되었는지 판단하는 것과 관련하여 다양한 역사적 시장 체제에서 테스트에 얼마나 많은 비중을 두었는지에 대해 어떻게 생각하시는지 궁금합니다.
+
+내 전략은 작년에 꽤 수익성이 높았지만(200%+ 수익성, 이익 계수 > 2) 샤프 비율이 매우 높지 않으며(기껏해야 1 범위) 여러 체제에 걸쳐 시작하면 확실히 무너집니다. . 또한 몬테카를로 시뮬레이션도 수행하지 않았습니다.
+
+나는 궁금하다:
+
+1. 샤프지수(Sharpe Ratio), 레짐 테스팅(regime test), 몬테카를로(Monte Carlo), 워크포워드 테스팅(walk-forward test)을 얼마나 고려해야 하는가?
+
+나는 현재 2년 기간(마지막 체제)에 대해 백 테스트를 거쳤고 1년 동안 적절한 수익성으로 순방향 테스트를 거쳤습니다. 하지만 성과가 악화됨에 따라 이러한 다른 체제를 조사하기 시작할 때 내 전략의 견고성에 대해 불안합니다. 부정적인).
+
+어떤 생각이나 학습이라도 감사하겠습니다!
+
+https://preview.redd.it/okzg2ic8wzee1.png?width=882&format=png&auto=webp&s=2da083c56c7dffbc5d3d15351845df23fa37e973
+
+**수정**: 지금까지 응답해 주셔서 감사합니다. 컨텍스트에 대한 배경을 좀 더 추가합니다.  
+\- 내 전략은 추세 추종/모멘텀 기반 전략입니다.  
+\- 위의 각 제도 동안(각 제도에 대해 별도의 매개변수를 사용하여) 다시 테스트했으며 각 제도 내에서(때로는 여러 제도에 걸쳐) 수익성을 찾을 수 있지만 전체 10년 동안 일관된 수익성을 찾을 수 없습니다. 동일한 매개변수를 사용하여 위의 범위를 확장합니다.
+
+\- **내 논점(결함이 있든 없든)은 다음과 같습니다.** 모든 체제(또는 거의 모든)에 맞게 조정할 수 있고 매우 높은 수익을 창출할 수 있는 단일 전략을 최적화하고 지속적으로 개선해야 합니다. 수익성을 유지하기 위해 제도를 모니터링하고 6개월마다 설정을 조정합니다. 간헐적으로 조정이 필요하다는 트레이드 오프로 높은 수익을 목표로 하고 있습니다.
+
+\- **가장 큰 질문 중 하나**: 성공한 알고 트레이더는 거의 조정하지 않는(설정하고 잊어버리는) 진정으로 강력하고 ""정권에 구애받지 않는"" 전략을 가지고 있습니까, 아니면 정권 변화를 모니터링하고 그에 따라 설정을 조정합니까?","Hey everyone,
 
 I'm curious what your thoughts are on how much weight you put on testing during different historical market regimes, particularly in regards to determining if a strategy has been overfit to the most recent regime.
 
@@ -102,15 +198,32 @@ https://preview.redd.it/okzg2ic8wzee1.png?width=882&format=png&auto=webp&s=2da08
 \- **My thesis (flawed or not) is:** Optimize and continue to improve a single strategy that can be adjusted to any regime (or almost any) and generate very high returns, with the assumption I'll still have to monitor regimes and adjust settings every 6 months or so to maintain profitability. I'm aiming for high returns with the trade off of needing to adjust it intermittently.
 
 \- **One of my biggest questions**: Do successful algo traders have strategies that are truly robust and ""regime agnostic"" that they rarely adjust (set and forget), or do they monitor for regime changes and adjust their settings accordingly?",https://reddit.com/r/algotrading/comments/1i940z3/regime_focus_in_backtesting_how_important_is_it/
-How impactful is ITCH data to your trading,DopeyDonkeyUser,25.1.25 오전 9:04,2,0,"For those whom launched with full book data NOM and Equities, hoe much of an impact has it improved your performance?
+거래에 가려움증 데이터가 얼마나 영향을 미칩니다,How impactful is ITCH data to your trading,DopeyDonkeyUser,25.1.25 오전 9:04,2,0,"Full Book Data Nom 및 Equities로 출시 된 사람들을 위해 성능이 얼마나 많은 영향을 미쳤습니까?
+어떤 유형의 데이터가 가장 강력한 예측력을 가지고 있습니까?","For those whom launched with full book data NOM and Equities, hoe much of an impact has it improved your performance?
 
 What type of data have you seen has the strongest predictive power?",https://reddit.com/r/algotrading/comments/1i9a0d7/how_impactful_is_itch_data_to_your_trading/
-I want to learn how to trade as someone capable of working with numbers/coding. Where do I start?,okaythanksbud,25.1.24 오후 4:27,10,22,"I have nearly 0 knowledge of trading or how most businesses operate. I’m still very young so I have a lot of time to learn but want to do so asap. I’ve only ever had interest in learning subjects with rigor, the thought of being in a business school class and looking at whatever color-print books accessible to 99% of the population they use nauseate me. I don’t know why, but unless the book is written in B&W with a super dry, definition-explanation-example type of format I have no interest in reading it.
+숫자/코딩 작업이 가능한 사람으로서 거래 방법을 배우고 싶습니다. 어디서부터 시작해야 하나요?,I want to learn how to trade as someone capable of working with numbers/coding. Where do I start?,okaythanksbud,25.1.24 오후 4:27,13,22,"거래에 대한 지식이나 대부분의 비즈니스 운영에 대한 지식이 거의 없습니다. 나는 아직도 아주 어리기 때문에 배울 시간이 많지만 최대한 빨리 그렇게하고 싶습니다. 나는 엄격한 과목을 배우는 데 관심이 있었고, 비즈니스 스쿨 수업에 종사한다는 생각과 그들이 나를 사용하는 인구의 99%에 접근 할 수있는 컬러 프린트 책을보고 있습니다. 왜 그런지 모르겠지만, 책이 B & W로 작성되지 않는 한, 초기, 정의 탐구-예기 형식의 형식으로 작성하지 않으면 그것을 읽는 데 관심이 없습니다.
+
+거래/금융에 대한 입문 서적/교과서가 다소 엄격한 관점에서 나오는 모든 것이 무엇이든 나에게 허용 할 것인지 궁금합니다. 1 : 기본 사항을 배우십시오. 2 : 이론을 배우십시오. 실제 반환을 보려면. 나는 이것에 관한 단일 책이 존재한다면 놀랄 것이므로이 콘텐츠에 요약 된 책에 매우 만족할 것입니다.
+
+조언에 감사드립니다!","I have nearly 0 knowledge of trading or how most businesses operate. I’m still very young so I have a lot of time to learn but want to do so asap. I’ve only ever had interest in learning subjects with rigor, the thought of being in a business school class and looking at whatever color-print books accessible to 99% of the population they use nauseate me. I don’t know why, but unless the book is written in B&W with a super dry, definition-explanation-example type of format I have no interest in reading it.
 
 I am wondering if there any any introductory books/textbooks to trading/finance/whatever that come from a somewhat rigorous standpoint, and will allow me to 1: learn the basics, 2: learn whatever theory underlies it, 3: actually apply the concepts to see actual returns. I would be surprised if any single book on this existed, so I would be very happy with any amount of books that sum up to this content.
 
 I appreciate any advice!",https://reddit.com/r/algotrading/comments/1i8q34d/i_want_to_learn_how_to_trade_as_someone_capable/
-Alpaca's Trump Hypothesis,Jrbell19,25.1.24 오전 2:12,90,9,"Hello folks of r/algotrading \- 
+알파카의 트럼프 가설,Alpaca's Trump Hypothesis,Jrbell19,25.1.24 오전 2:12,89,9,"r/algotrading \- 안녕하세요. 
+
+나는이 커뮤니티의 정신과 완벽하게 일치하는 유익한 프로세스 중심 컨텐츠를 보여주는 기사를 강조하고 싶었습니다.
+
+초보자의 경우 - 품질이 낮은 게시물이나 일반적인 '시작 방법'질문으로 인해 수많은 게시물이 필터링되는 것을 볼 수 있습니다. 이 게시물은 필수 출발점을 간략하게 설명합니다. 가설 개발, 테스트 프레임 워크 구축 및 자본으로 배치 할만 큼 확신 할 때까지 지속적으로 반복합니다. 
+
+모든 사람이 자신의 전략을 공유하거나 이러한 수준의 세부 사항을 일치시키기를 기대하지는 않지만 토론을 장려 할 수있는 프로세스 지향적 인 컨텐츠를 고무시키기를 바랍니다. 
+
+새로운 회원에게 통찰력이 있거나 도움이 될 수있는 유사한 콘텐츠를 자유롭게 공유하십시오! 
+
+알파카의 기사 :
+
+# [트럼프 하의 주식 시장 : 전 공화당 대통령에 근거한 가설] (https://alpaca.markets/learn/the-stock-market-under-trump-ahypothesisis--on-former-republican-presidencies ))","Hello folks of r/algotrading \- 
 
 I wanted to highlight an article that showcases the kind of informative, process-driven content that aligns perfectly with the spirit of this community.
 
@@ -123,27 +236,51 @@ Feel free to share any similar content you’ve come across that may be insightf
 Alpaca's Article:
 
 # [The Stock Market Under Trump: A Hypothesis Based on Former Republican Presidencies](https://alpaca.markets/learn/the-stock-market-under-trump-a-hypothesis-based-on-former-republican-presidencies)",https://reddit.com/r/algotrading/comments/1i88cqj/alpacas_trump_hypothesis/
-Intraday SL,Jeckry,25.1.24 오전 10:23,9,9,"Need some advice for the backtesting of my trading bot.
+정맥 내 SL,Intraday SL,Jeckry,25.1.24 오전 10:23,8,9,"내 트레이딩 봇의 백테스팅에 대한 조언이 필요합니다.
+
+Tradingview에서 Pine 스크립트로 봇을 만들었고 현재 bybit에서 실행하고 있습니다. 라이브 트레이딩은 제가 계획한 대로 정확하게 작동하지만 Tradingview 백테스팅에 몇 가지 문제가 발생합니다.
+
+문제는 백테스팅이 캔들 내 sl을 무시하고, 캔들이 닫힐 때만 데이터를 가져오며 제 경우에는 실제로 작동하지 않는다는 것입니다. 저는 이 문제를 해결할 방법을 찾기 위해 모든 것을 시도했기 때문에 백테스팅을 위해 다른 플랫폼으로 마이그레이션하려고 생각하고 있습니다.
+
+이 문제에 대한 해결책을 찾았나요? 아니면 어떤 플랫폼으로 마이그레이션해야 할까요?","Need some advice for the backtesting of my trading bot.
 
 I made a bot with pine script on Tradingview and Im currently running it on bybit, the live trading works exactly as I planned but i encounter some problems with tradingview backtesting.
 
 The problem is that the backtesting ignores intracandle sl, it only gets data at candle closure and that doesnt really work for my case, I have tried everything to find a way around it so Im thinking to migrate to an other platform for my backtesting.
 
 Do you guys have found a solution to this issue or if not what platform should I migrate to.",https://reddit.com/r/algotrading/comments/1i8jrsy/intraday_sl/
-What platform/framework for crypto and stock trading?,FatefulDonkey,25.1.24 오전 4:30,7,10,"I wonder what everyone is using for automated trading and what is the pros/cons people find.
+암호화폐 및 주식 거래를 위한 플랫폼/프레임워크는 무엇입니까?,What platform/framework for crypto and stock trading?,FatefulDonkey,25.1.24 오전 4:30,7,10,"모든 사람들이 자동 거래에 무엇을 사용하고 있는지, 그리고 사람들이 찾은 장단점이 무엇인지 궁금합니다.
+
+즉, 우리는 암호화와 증권 거래소를 모두 지원할 새로운 도구를 구축하고 있으며 사람들이 실제로 부족한 것을 알고 싶어합니다.","I wonder what everyone is using for automated trading and what is the pros/cons people find.
 
 Namely we're building a new tool that will support both crypto and stock exchanges and we're interested to know what people actually find lacking out there.",https://reddit.com/r/algotrading/comments/1i8bqj9/what_platformframework_for_crypto_and_stock/
-Any exchanges that allow bots for paper trading?,hoosierpride1,25.1.24 오후 12:05,0,23,"Hello fellow apes,
+종이 거래를위한 봇을 허용하는 교환이 있습니까?,Any exchanges that allow bots for paper trading?,hoosierpride1,25.1.24 오후 12:05,0,23,"안녕하세요, 원숭이 여러분,
+
+종이 거래 계좌의 첫 번째 전략 테스트에 다양한 유형의 거래 봇(그리드, DCA, 역 그리드, 스마트 재조정)을 배포할 수 있는 거래소가 있습니까?
+
+저는 주로 주식과 암호화폐 거래를 찾고 있습니다.
+
+미리 감사드립니다!!","Hello fellow apes,
 
 Are there an  exchanges that let you deploy different types of trading bots (grid, dca, reverse grid,smart rebalance) to first test strategies in a paper trading account?
 
 I am primarily looking for trading stocks and crypto.
 
 Thanks in advance!!",https://reddit.com/r/algotrading/comments/1i8ls79/any_exchanges_that_allow_bots_for_paper_trading/
-"In the US, what crypto exchange to use?",Desalzes_,25.1.24 오전 12:20,9,20,"I've written a good bot that does great doing live paper trading but...
+미국에서는 어떤 암호화 교환을 사용할 수 있습니까?,"In the US, what crypto exchange to use?",Desalzes_,25.1.24 오전 12:20,7,20,"나는 라이브 페이퍼 거래를 잘하는 좋은 봇을 썼지 만 ...
+
+내가 접근 할 수있는 모든 거래소는 .4% 교환 수수료의 영역에 있으며 [binance.us] (http://binance.us)는 내 주에서 금지됩니다. 나는 당신이 당신의 계정을 잠글 수 있다는 것을 보았 기 때문에 VPN 사용에 대해 모른다. 여기 누군가가 내가 무엇을 사용해야하는지 알고 있는지 궁금했다.","I've written a good bot that does great doing live paper trading but...
 
 Every exchange I've seen that I have access to is in the realm of .4% exchange fees, [binance.us](http://binance.us) is banned in my state. I don't know about using a vpn because I saw you can get your account locked, was wondering if anyone here knows what I should be using",https://reddit.com/r/algotrading/comments/1i85pgo/in_the_us_what_crypto_exchange_to_use/
-I'm giving up,na85,25.1.24 오전 5:29,3,58,"... on Common Lisp.
+나는 포기하고있다,I'm giving up,na85,25.1.24 오전 5:29,3,58,"... 일반적인 lisp.
+
+도서관 생태계는 금융 관련 사용 사례에 유용한 것이 없다. 나는 단지 상류로 수영하는 것에 지쳤다.  LISP로 작성된 두 가지 전략이 실행됩니다.  하나는 더 많은 기능이 완료되며 이익이 건조 될 때까지 유지 보수 모드로 남겨 둘 것입니다.
+
+나는 두 번째로 포트를 할 것입니다. 이는 여전히 개발/정제 단계에있는 트렌드를 따르는 전략을 약간 덜 힙 스터로 만들었습니다.  의미 론적 들여 쓰기는 미친 사람들을위한 것이기 때문에 파이썬이 아닙니다. 
+
+그러나 아마도 C# 또는 이동.  Mayyyybe C ++ 그러나 나는 그것에 대한 에너지가 있는지 모르겠습니다.  나는 언어를 합리적으로 잘 알고 있지만, 쓰레기 수집은 매우 편리합니다.
+
+나는 제안에 개방적이다.","... on Common Lisp.
 
 The library ecosystem is just so devoid of anything useful for finance-related use cases I'm just fucking tired of swimming upstream.  I have two strategies running, both written in lisp.  One is more-or-less feature complete and I'm going to just leave it in maintenance mode until profits dry up.
 
@@ -152,257 +289,37 @@ I'm going to port the second one, which is a trend-following strategy that's sti
 But probably C# or Go.  Mayyyybe C++ but I don't know if I have the energy for that.  I know the language reasonably well but, y'know, garbage collection is so convenient.
 
 I am open to suggestions.",https://reddit.com/r/algotrading/comments/1i8d51e/im_giving_up/
-"Wondering if anyone knows of a library, don't really care which language, that will let me input a list of trades and then deliver performance metrics.",sourbrew,25.1.23 오후 10:20,8,15,"Basically what it says on the tin, ideally I'd be able to compare to a buy and hold strategy on the same instrument, although I could simply generate that as a separate list of trades.
+라이브러리에 대해 아는 사람이 있는지 궁금합니다. 어떤 언어인지는 중요하지 않습니다. 라이브러리를 사용하면 거래 목록을 입력한 다음 성능 측정 항목을 제공할 수 있습니다.,"Wondering if anyone knows of a library, don't really care which language, that will let me input a list of trades and then deliver performance metrics.",sourbrew,25.1.23 오후 10:20,9,15,"기본적으로 주석에 적힌 내용은 동일한 상품에 대한 매수 및 보유 전략을 비교할 수 있지만 단순히 별도의 거래 목록으로 생성할 수도 있습니다.
+
+최소한 연간 실적을 포함해야 하지만 월별 실적도 포함해야 합니다.
+
+보너스 포인트는 50% SPY, 50% TLT와 같은 가중치 포트폴리오를 구현하는 능력입니다.
+
+하나의 전략이 플랫하고 다른 하나가 롱인 경우 재조정을 위한 추가 포인트, 그리고 별도의 헤지 전략을 설정할 수 있습니다. 즉, SPY를 거래했는데 플랫했지만 SH 전략이 롱인 경우 로드됩니다. SH에서는 SPY 롱 신호가 있으면 SPY로 재조정합니다.","Basically what it says on the tin, ideally I'd be able to compare to a buy and hold strategy on the same instrument, although I could simply generate that as a separate list of trades.
 
 Should at least include annual performance, but would also like monthly.
 
 Bonus points would be the ability to implement a weighted portfolio, like 50% SPY 50% TLT.
 
 Additional points for rebalancing if one strat was flat and the other was long, and to be able to set a separate strategy for hedges, ie: if I was trading SPY, and it was flat, but an SH strategy was long it would load up on SH, but then rebalance into SPY if there was a SPY long signal.",https://reddit.com/r/algotrading/comments/1i836k1/wondering_if_anyone_knows_of_a_library_dont/
-Anyone recommend against using PineScript + TradingView Alerts?,AncientKyogre,25.1.23 오후 10:14,5,8,"New to algotrading.  I have a webhook that connects my trading view alerts to MT4. It's functional  although I'm concerned that too many alerts may clog the system and cause latency issues.
+PineScript + TradingView Alerts 사용에 대해 권장하는 사람이 있습니까?,Anyone recommend against using PineScript + TradingView Alerts?,AncientKyogre,25.1.23 오후 10:14,4,8,"조류에 새로워집니다.  내 거래보기 경보를 MT4에 연결하는 Webhook이 있습니다. 너무 많은 경고가 시스템을 막고 대기 시간 문제를 일으킬 수 있다고 우려하지만 기능적입니다.
+
+소나무 스크립트를 MT4 EA로 변환하는 것을 제외하고는 무엇을 할 수 있습니까?","New to algotrading.  I have a webhook that connects my trading view alerts to MT4. It's functional  although I'm concerned that too many alerts may clog the system and cause latency issues.
 
 What else can I do except converting my pine script into an MT4 EA?",https://reddit.com/r/algotrading/comments/1i832dc/anyone_recommend_against_using_pinescript/
-Books you'd recommend to someone getting started in algorithmic trading?,gotchab003,25.1.23 오전 5:15,58,60,"I currently work as a software developer and I'm interested in learning the basics about algorithmic trading, assuming I know pretty much nothing about it. I found a book named ""Algorithmic Trading and DMA: An introduction to direct access trading strategies"" by Barry Johnson, but it has mixed reviews, some people loved it, others found it worthless. Do you have any recommendation of books you found useful?
+당신의 장점을 드러내지 말고 어떻게 당신의 장점을 찾았는지 알려주세요..,"Without revealing your edge, tell us how you found your edge..",Gear5th,24.12.27 오후 5:34,230,177,"나는 가끔씩 알고트레이딩에서 ""우위를 찾는 방법""에 대한 지침을 요청하는 게시물을 봅니다. 그리고 그럴 만한 이유가 있습니다. 우위를 찾는 것이 가장 파악하기 어려운 부분이며, 이것이 당신을 무리와 분리시키는 요소입니다.
 
-Thanks a lot in advance!",https://reddit.com/r/algotrading/comments/1i7kqq4/books_youd_recommend_to_someone_getting_started/
-Does ‘Sharing is Caring’ Apply to the Trading Industry?,dadiamma,25.1.22 오후 2:55,62,66,"I have a lot of profitable strategies (non-algo, but I’ve recently gotten into algo trading) that have made me more than enough. I wanted to help others by sharing some strategies that beginners can try. However, I’ve noticed many times on here and in other forums that people are hesitant to share their “secret sauce.”
 
-So, I wanted to understand why sharing might be a bad idea. Should I keep these strategies to myself? Would sharing them hurt the industry if these methods become widely known? After all, aren’t we just small fish in a big sea, so why would our individual edge matter?
+*당신의 장점*을 찾은 분들을 위해(물론 공개할 필요는 없습니다), 어떻게 거기에 도달하게 되었나요? 구체적으로:
 
-Sorry if this comes across as a silly question, but I’m genuinely wondering how I can give back to the community. In my primary field (digital marketing), which is where I’ve built my main wealth, I’ve often seen people openly share their “secret sauce” techniques.
+- 그것을 찾기까지 어떤 과정이나 접근 방식이 있었나요?
+- 엣지를 찾는데 얼마나 시간이 걸렸나요?
+- ""아하!""라는 중요한 전환점이 있었나요? 도중에 잠깐?
+- 어떤 실수나 막다른 골목에서 가장 많은 교훈을 얻었나요?
+- 당신이 발견한 것이 진정한 우위인지 어떻게 검증했나요?
 
-Note: Please don’t PM me asking for the strategies. I’m not interested in selling anything—just trying to earn some real-life karma points (not Reddit karma).",https://reddit.com/r/algotrading/comments/1i74fzw/does_sharing_is_caring_apply_to_the_trading/
-Questions for those who created their own backtesting engines,Matusaprod,25.1.22 오전 10:16,62,57,"- Was it worth it? Would you do it again?
-- Are you profitable/full time algo trading?
-- If yes, would you focus on reaching consistent results before bothering with building a backtesting engine or vice-versa?
-- If not, besides gaining experience, would you still do it or not? If you're not consistent/profitable/trading for a living, why even bother to create your own engine?",https://reddit.com/r/algotrading/comments/1i6z0p0/questions_for_those_who_created_their_own/
-"The simplest (dumbest) idea, but why wont just work?",Zenithine,25.1.22 오후 4:26,15,35,"I've been fixated on Renko bars lately because of their purity at showing price action irrespective of everything else. I had this idea for a NinjaScript strategy that - in theory - should work, but when I test in a sim account with different sized bars and slightly altered variables it just never churns out any profit at all.
 
-    if(
-      Position.MarketPosition == MarketPosition.Flat && // No positions currently open
-      Close[1] > Open[1] && // Previous bar was green
-      Close[0] > ema200[0] // we're above the EMA
-      )
-    {
-      EnterLong(1); // Open long position
-    }
-    
-    if(
-      Position.MarketPosition == MarketPosition.Long && // Currently long
-      Close[1] < Open[1] // Previous bar closed red
-      )
-    {
-      ExitLong(); // Close position
-    }
-
-I get that this braindead in its appearance, but when you look at a renko chart, the price spends more time moving distances than it does chopping up and down
-
-[image source: investopedia.com](https://preview.redd.it/udtclxxnyhee1.png?width=1500&format=png&auto=webp&s=8ab56b123e7a5621bfed254b3a81dcb10bbcbb77)
-
-In a back test against 1 month of data this strategy claimed 10's of thousands of dollars in profits across 20,000 total trades (profits include commissions).
-
-But in a live Sim test it was a big net loss. I'm struggling to understand why it wont work. maybe im dumb",https://reddit.com/r/algotrading/comments/1i75s1b/the_simplest_dumbest_idea_but_why_wont_just_work/
-How to test strategies and back test them,Sweet-Dress4742,25.1.23 오전 12:56,1,19,"Hi,I am new to day trading and i see everybody talking about testing strategies and backtesting them,saying i have 65% success rate something or other.Like how do i do it and what is meaning of strategies here like you can’t predict the market right,a bot can’t do that right then how do they do it and what is the actual meaning behind it.please explain in detail about it and how to do it.",https://reddit.com/r/algotrading/comments/1i7eb17/how_to_test_strategies_and_back_test_them/
-Library do you guys use for Backtesting,glaksmono,25.1.21 오후 7:38,43,49,"I'm considering to use [https://github.com/Grademark/grademark](https://github.com/Grademark/grademark)
-
-Is that pretty good? Any other suggestions?",https://reddit.com/r/algotrading/comments/1i6ftim/library_do_you_guys_use_for_backtesting/
-Looking for one mediocre strategy idea to backtest on Futures data,SeagullMan2,25.1.22 오전 2:50,9,29,"Just looking for square one here. I have been actively backtesting and algotrading stocks for over 5 years. I would like to expand into the futures market. 
-
-As I am a total noob in this domain, I am wondering if someone could offer one idea for me to start backtesting. It doesn't have to be good. Just something that makes sense in the context of how Futures are traded. 
-
-For those with experience in both stocks and futures, what are the greatest differences that you have found in market behavior / dynamics?",https://reddit.com/r/algotrading/comments/1i6ohxq/looking_for_one_mediocre_strategy_idea_to/
-Where can I get free intraday trading data for the past year or more?,DolantheMFWizard,25.1.21 오전 6:04,17,22,"I'm starting with trading. Right now I'm learning the ropes, trying some basic algorithms. I've been using yFinance, but they only let you get 1 month's worth of intraday trading data. I'd like to see how certain algorithms perform and hyperparameters tune them. Where can I get more intraday data for free so I can see how these algorithms perform in more situations?",https://reddit.com/r/algotrading/comments/1i6119h/where_can_i_get_free_intraday_trading_data_for/
-How to Determine the Right Stop-Loss Percentage for Grid Bots?,dadiamma,25.1.21 오전 12:37,15,26,"
-I’m transitioning from manual trading to algorithmic trading, so I’m still a beginner in this space. While I’ve been able to create profitable grid bots, I’m struggling with one key aspect: determining the appropriate stop-loss amount or percentage.
-
-In manual trading, I used a strict 1% stop-loss rule, but applying this same approach in a [grid bot](https://www.binance.com/en/square/post/1282566825826) (if someone doesn’t know about grid bots here is the link) strategy has been problematic, especially since the bot executes around 500 trades per day. 
-
-When I use the 1% rule, positions often get stopped out too quickly. I suspect this is due to the unique dynamics of grid trading or the higher invested amounts the bot operates with.
-
-I’m not looking for advice on how to apply a stop-loss but rather how to calculate or decide on the most effective stop-loss percentage for a high-frequency grid bot. 
-
-What factors should I consider? 
-
-Are there frameworks or techniques that can help arrive at a stop-loss amount that balances risk and performance?
-
-Any guidance or insights would be greatly appreciated.
-
-TL;DR:
-
-Transitioning from manual trading to algo trading and struggling to determine the right stop-loss % for my grid bot (not how to apply it). My manual 1% stop-loss rule causes frequent stop-outs due to grid bot dynamics (500+ trades/day, higher investment). How do I calculate a suitable stop-loss % for high-frequency grid trading?",https://reddit.com/r/algotrading/comments/1i5swwp/how_to_determine_the_right_stoploss_percentage/
-Making a fast TA lib for public use,RubenTrades,25.1.20 오전 11:52,24,37,"I'm writing a technical analysis library with emphasis on speedy calculations. Maybe it could help folks out?
-
-I ran some benchmarks on dummy data:
-
-➡️ EMA over 30,000 candles in 0.18 seconds 
-➡️ RSI over 30,000 candles done in 0.09 seconds
-➡️ SMA over 30,000 candles in 0.14 seconds
-➡️ RSI Bulk 100,000 candles in 0.40 seconds
-
-Not sure how fast other libraries are, or what it should be to be fast? (Currently it's single-threaded but I could add multi-treads and SIMD operations, just not sure what wasm supporst yet).
-
-All indicators are iterative, so if you get new live prices or new candles, it doesn't need to do the entire calculation again. 
-
-It's built in Rust and compiles to web assembly, so any web-based algos (python, json, js, ts) can calculate without blocking, and without garbage-collection slowdowns.
-
-Is there a need/want for this? Or should it stay a hobby project? What other indicators / pattern detection should I add?
-
-",https://reddit.com/r/algotrading/comments/1i5gdje/making_a_fast_ta_lib_for_public_use/
-"Long time lurker, first time strategy",The_Nifty_Skwab,25.1.20 오전 5:19,74,50,"Hey r/algotrading, I've been a lurker for a while now but never tried anything myself. This weekend I had some free time so I decided to code one of the ideas I had. The algorithm itself isn't anything fancier than a logistic regression on custom TA indicators.
-
-Trained on a selection of S&P 500 stocks from 2020-2022 and tested on 2022-2025. With the test set I found:  
-\- annual returns = 110.7%  
-\- total wins/buys = 918/1336 (68.7%)  
-\- max drawdown = 15.8%  
-\- sharpe = 3.55
-
-I'm not a finance person so most of my knowledge comes from posts on this sub. I need to do some more backtesting but I'm going to start small with some paper-trading tomorrow and see how it goes!
-
-https://preview.redd.it/gh5l1ia1c0ee1.png?width=589&format=png&auto=webp&s=d8763d639a5b5d546e66fa53e80d5a9f155d6e05
-
-EDIT: I used a lot of the suggestions in the comments to fix errors related to fees, slippage, and bunch of other tiny issues. I'm now seeing a sharpe of 2.8, annualized returns around 80%, but I can't get my draw-down below 20%. Still have lots of work to do but it's promising so far!
-
-Edit2: nope",https://reddit.com/r/algotrading/comments/1i57xqi/long_time_lurker_first_time_strategy/
-Looking for feedback on algo,Aggressive-Ad-7862,25.1.20 오후 1:51,6,34,"
-Hey everyone! I’ve been working on a Python-based algo trading bot for NIFTY long options in the Indian market and would love your input on how I can improve or optimize it. Here’s a quick rundown:
-
-
----
-
-What the Bot Does
-
-1. Generates Signals:
-
-I pull real-time data for NIFTY, then run it through a custom “SignalGenerator” that uses indicators like a short EMA cross, MACD, RSI, Bollinger Bands, ATR-based volatility, etc.
-
-I distributed weights almost equally to two each of trend, momentum and volatility indicators. 
-
-It produces a simple directional signal—“CALL,” “PUT,” or “No Trade”—based on whether the combined indicator score crosses a certain threshold. It's written in such a way that at least two indicators need to fire positive. In fact, RSI acts opposite to these indicators if the trend goes into overbought or oversold territory, in which case there has to be a stronger signal from the other indicators to justify taking a position. 
-
-
-
-
-2. Manages Position Sizing:
-
-Right now, I keep it simple by allocating a fixed percentage (like 25%) of my capital for each trade. That way I’m not overexposed, but I’m still putting a sizable chunk of funds to work whenever a signal fires. I'm only experimenting and so I'm okay even if I lose the entire amount I put in. (1 lakh)
-
-I enter into NIFTY ATM long calls or puts based on the signal for which i fetch quote data synchronously and try to undercut the best bid by 10% more of the spread. If the order is not filled, the bot keeps monitoring and modifies the limit price until the order gets filled. Of course i also have logic written for slice orders. Generally in the rare instances it gets partially filled, the next modification almost always fills the order.
-
-
-The bot also tracks my total daily PnL and will stop trading if I hit a max profit or max loss for the day. Reason i stop after a max profit is to avoid over trading.
-
-I also only enter one position at a time, as it's simpler that way. My broker is Dhan and although they do provide asynchronous data, they only allow quote data for one ticker per second. Which seems too slow to manage multiple positions.
-
-
-
-3. Uses a Single Stop Loss & Target Profit:
-
-I used to experiment with dynamic SL/TP that changed based on ADX (trending vs. sideways), but the backtests showed better consistency with just one fixed SL/TP across the board.
-
-So currently, as soon as a buy order is filled, the bot sets a stop loss (say 10% below entry) and a target profit (50% above entry), and just runs with that. I also run with a trailing Stop loss based on ATR volatility once my TP is reached, so that I ride waves, but also lock in profits in case direction reverses.
-
-I know it's a wide SLTP, but I'm only betting on large moves that come once in a while. And based on my back testing with 9 years historical NIFTY minute data, it appears those few times are good enough to recoup the losses and gain decent profits. The signal seemed to have a 30% right prediction for this risk reward of 1:5+, which netted great profits.
-
-This SLTP makes me more of a positional trader than someone who's competing with HFTs which is impossible.
-
-4. Logs Trades to MySQL:
-
-Every partial fill or complete fill gets inserted into a MySQL database. That way, I can review how trades played out—including timestamps, fill prices, rejections/cancellations, etc.
-
-This helps me keep solid records and run my own analytics on the data later.
-
-
-
-5. Additional Safeguards:
-
-If the signal says “No Trade,” the bot just waits for the next check—pretty standard.
-
-Once we’re near market close, it attempts to exit any open position and cancels pending orders.
-
-I also have a “kill switch” that triggers if daily losses get too large, so the bot doesn’t spiral out of control if something goes wrong.
-
-6. Backtesting:
-I could get my hands on Nifty minute data from 2015-2024. I used it to estimate option prices using Black Scholes, while considering the immediate next Thursday to be expiry date, for simplicity. 
-
- I also estimated additional entry and exit charges (broker, STT etc.). I also considered 1% slippage, just to keep with realism that I won't always get my prices.
-
-I then created a pytest file that runs the actual main.py, but just emulates datetime and broker calls. This way the actual trading script got tested with the historical data.
-
-
-
----
-
-What I’d Love Feedback On
-
-Signal Generation: what do you think of my approach? I also have code written for a VWAP indicator which uses The nearest NIFTY futures volume data real-time. But somehow it didn't seem so good at giving signals in practice. 
-
-
-Also, i tried to create an RL agent for complementing my signal generator that uses technical indicators. But it seemed to be too much effort and I'm just not good enough to build something that works. Instead I though of sticking to the simpler approach. What are your experiences?
-
-
-Position Management: Right now it’s a simple “25% capital per position” approach. Is there a more adaptive method you’d recommend (e.g., ATR-based sizing, volatility-based sizing)?
-
-Expiry date to trade: I made my code so that I can decide which expiry date to trade in. Since I'm long, would it be better to go one level past the nearest expiry?
-
-Edge Cases: If you see anything missing—like a plan for major volatility spikes or weird partial fill issues—please let me know!
-
-
-
----
-
-Thanks in Advance!
-
-I really appreciate any thoughts or suggestions. I’m still ironing out the kinks, so the more perspectives, the better. If you’ve done something similar or see any obvious pitfalls, I’d love to hear from you.
-
-Cheers!
-",https://reddit.com/r/algotrading/comments/1i5ihe6/looking_for_feedback_on_algo/
-What Python Trading Platform/API?,im-trash-lmao,25.1.19 오후 4:32,65,33,"Looking for opinions and suggestions on the best trading platforms and APIs with Python support. I have a Python trading strategy ready to deploy, but not sure which platform to deploy to.
-
-Anyone have any experiences or recommendations? Anything would be very helpful and appreciated! 
-
-I’ve heard a lot of Alpaca or Interactive Brokers. Curious to see the sentiment regarding these two. Anyone have any suggestions or insights?",https://reddit.com/r/algotrading/comments/1i4t9e6/what_python_trading_platformapi/
-[Max Drawdown] When to use realized vs. unrealized gains?,bravosierra1988,25.1.20 오전 10:14,2,8,"I am working on a long term swing trading strategy using LETFs. In one particular trade for example, the strategy buys before a major peak and ultimately sells near break even. 
-
-If I track from the peak of unrealized gains to the sell order, it is almost -30%. If I track from when it bought to when it sold, it’s actually +2%. 
-
-My question is, what’s the proper way to do this? Is there a mathematical standard? Are they both useful metrics different reasons? Do we only care about realized drawdown during backtesting?",https://reddit.com/r/algotrading/comments/1i5eiwt/max_drawdown_when_to_use_realized_vs_unrealized/
-Automated NQ Strategy Performance plus explaination,uCorgi,25.1.19 오후 10:47,15,28,"[buy\/sell bb breakout strat on 2 con nq over last \~80 days](https://preview.redd.it/nx5xcs6mfyde1.png?width=1455&format=png&auto=webp&s=cebbaf8d76106131ff43dd1fbd06e014b63ad99c)
-
-My last post got taken down for being useless so I'm adding a wall of yap this time
-
-The chart above if reddit loads it is the p/l graph of a single automated strategy forward tested over the last 80ish trading days using live non sim data and including fees and slippage. I have been using it live past the dec31 mark and can confirm this chart is accurate.
-
-The strategy (2 con nq) uses a bollinger band squeeze with cci to confirm direction as an entry, then has a take profit at 100 ticks and no set stop loss (however another setup will close the trade). After all of this it compared the direction to another strategy on the daily frame and if they match the trade is taken.
-
-so far it is doing good, maybe too good, but i use it with my account that has 4 times the max drawdown on the chart just to be safe.
-
-the system is automated and uses tradingview webhooks to send orders, i know people here like to bitch and whine about tv but I've had zero problem, plus the response time is like 500 milliseconds at most on a strategy that uses 5 minute candles so yea  
-I'm not selling anything so don't call me a scammer in comments",https://reddit.com/r/algotrading/comments/1i4ysgs/automated_nq_strategy_performance_plus/
-Anyone tried TrendSpider's Predictive AI Trading Models ?,MarkFisher4552,25.1.20 오전 9:11,0,2,"TrendSpider have this new feature now, where their AI Algorithm will write profitable trading strategies by itself? Anyone have any experience using this or Trendspider's strategy back-testing platform as a whole ?",https://reddit.com/r/algotrading/comments/1i5d9ef/anyone_tried_trendspiders_predictive_ai_trading/
-I overthing a lot just because I'm not 100% sure it can be possible to make a living out of this,Matusaprod,25.1.19 오전 1:22,90,124,"**EDIT:** Thank's everyone for your kind messages. I'll keep this thread saved and read it again when necessairy.
-
-Hi everyone.
-
-I've been studying trading since 4 years, it was more a side thing up until recently because I have most of my focus on getting a degree. My main goal would be to be an indipendent algorithmic trader as a profession. My two passions are coding and trading, there's nothing I enjoy doing more.
-
-There is just one problem. Due to my accademic studies (quant. finance) I was basically ""brainwashed"" by my professors that would constantly say for 4 years straight that it's not possible to be a profitable retail trader long term, due to efficient markets (which everyone knows there are efficiencies but not exploitable by a simple guy on his room). This coupled witht the fact that everywhere I try to learn something I do some background check on WHO is teaching and all the times: no track records, seems legit guy and then when you go on his website you find one of those sketchy landing pages.
-
-I enjoy trying and coding strategies, I found the simpler ones are those that tend to give better results. But the problem is that I'm not 100% convinced it can be possible to make a living out of this. Sometimes I have these periods where I end up in overthinking because I wonder if I'm just wasting my time and should be doing something else.
-
-I think I just need some ""proof"" that it can be done. So far I found just ONE example: Jerry Parker which was a turtle trader and now running a firm that is active since many years (and it does not seem that they do HFT stuff based on interviews of him).
-
-So I guess my question boils down to: what makes you have 'fatith' on pursuing this thing and believing it can be done consistently over the years? Again, not taling about the type of trading they do at HFT firms like Optiver, Jane Street and so on.",https://reddit.com/r/algotrading/comments/1i4b2l3/i_overthing_a_lot_just_because_im_not_100_sure_it/
-"Barchart, A good source of historical data?",LachiePro,25.1.19 오후 3:03,4,0,"I've been building datasets for developing algorithms for trading futures (Grains & Energy).
-
-With the free trials that [Barchart.com](http://Barchart.com) offer, is it a reliable provider for historical data or would I be better fit going with other data providers? (if so who?).
-
-Looking at the data, it looks to be reliable, obviously no data is perfect, I'm just worried that I go down the route of using subpar data and wasting my time. ",https://reddit.com/r/algotrading/comments/1i4rx32/barchart_a_good_source_of_historical_data/
-Give Me Your Algorithm,ImportantPerformer97,25.1.20 오전 8:15,0,28,"Okay, the point of the post isn’t actually for you to give me your algorithm. Rather, during my trial and errors the last few weeks (read: months) I’ve learned so much! Mostly I’ve learned how little I know. I’ve built and tested and backtested and front tested and around tested. I’ve debugged and rebugged. 
-
-What I would like is to see an example of an algorithm that works. It doesn’t have to work that well, maybe not even at all. I just want to connect some dots on things I might (must) be missing. Really, I want to see someone else’s implementation of algorithmic trading, even if it sucks. Doesn’t even have to be yours, could be the guy you hate who leaked it on github accidentally. 
-
-tl;dr can you show me an algo other than the one I’ve built?",https://reddit.com/r/algotrading/comments/1i5c2jb/give_me_your_algorithm/
-"Without revealing your edge, tell us how you found your edge..",Gear5th,24.12.27 오후 5:34,231,177,"I see posts every now and then asking for guidance on ""how to find an edge"" in algotrading. And for good reason - finding an edge is the most elusive part, and it is what separates you from the herd.
+추신: 여기서 목표는 구체적인 내용을 공개하지 않고 다른 사람들이 프로세스에 대해 생각할 수 있도록 토론을 촉발하는 것입니다. 엄격한 백테스팅, 심층적인 시장 조사, 고유한 데이터 소스 또는 오래된 끈기에 의존하든 모든 것이 중요합니다!","I see posts every now and then asking for guidance on ""how to find an edge"" in algotrading. And for good reason - finding an edge is the most elusive part, and it is what separates you from the herd.
 
 
 For those who have *found your edge* (no need to reveal it, of course), how did you get there? Specifically:
@@ -415,8 +332,40 @@ For those who have *found your edge* (no need to reveal it, of course), how did 
 
 
 PS: the goal here is to spark a discussion that helps others think about the process without giving away specifics. Whether you relied on rigorous backtesting, deep market research, unique data sources, or just good old persistence, every bit counts!",https://reddit.com/r/algotrading/comments/1hnalq5/without_revealing_your_edge_tell_us_how_you_found/
-I am currently live testing my altcoins trading bot 🤗,17J4CK,25.1.17 오전 6:49,206,112,,https://reddit.com/r/algotrading/comments/1i30cej/i_am_currently_live_testing_my_altcoins_trading/
-"Silly Hype trading bot that combines sentiment scanning/ranking with a TA confirmation layer, feel free to clone",morritse,25.1.13 오전 6:14,137,29,"[repo](https://github.com/Morritse/SentimenTA)
+저는 현재 알트코인 거래 봇을 라이브 테스트 중입니다 🤗,I am currently live testing my altcoins trading bot 🤗,17J4CK,25.1.17 오전 6:49,210,112,,,https://reddit.com/r/algotrading/comments/1i30cej/i_am_currently_live_testing_my_altcoins_trading/
+감정 스캐닝/순위를 TA 확인 계층과 결합한 바보 같은 과대 광고 거래 봇,"Silly Hype trading bot that combines sentiment scanning/ranking with a TA confirmation layer, feel free to clone",morritse,25.1.13 오전 6:14,137,29,"[저장소](https://github.com/Morritse/SentimenTA)
+
+*편집* 주요 업데이트는 2024년 1월 13일 기준입니다. 조정된 위치 순위, 반전/충돌되는 모든 위치를 종료하고 새 위치를 입력하기 위해 5m 루프에 활성 모니터링을 추가했습니다. 
+
+언제든지 변경 사항을 제안해 주시면 기꺼이 업데이트해 드리겠습니다.
+현재 평균 ~.5%/일 
+
+봇은 2단계 프로세스를 따릅니다.
+
+기존 직위 관리:
+
+측면별 기술적 분석으로 각 포지션을 분석합니다.
+포지션 측에 대한 모멘텀 방향 확인
+청산 기준을 충족하는 포지션 청산:
+매수 하락 모멘텀(< -2%)
+공매도에 대한 긍정적인 모멘텀(> +2%)
+기술 신호는 위치에 따라 움직입니다.
+손절매 적중(-5%)
+최소 손익으로 포지션 기간 > 5일
+약한 기술로 인한 과다 노출
+
+
+
+새로운 기회 찾기:
+
+소셜 소스의 인기 주식 화면
+기술 지표 및 모멘텀 계산
+사회 및 기술 점수를 합산하여 주식 순위를 매깁니다.
+다음을 기준으로 후보자를 필터링합니다.
+매수: 70번째 백분위수 이상 + 긍정적 모멘텀
+매도: 30번째 백분위수 미만 + 음의 모멘텀
+노출이 70%를 초과하는 경우 임계값이 더 엄격해짐
+시장이 열리면 실행될 주문을 하세요.","[repo](https://github.com/Morritse/SentimenTA)
 
 *EDIT* MAJOR UPDATE as of 1/13/24. Adjusted position ranking, added active monitoring on a 5m loop to exit any positions which are reversing/crashing and entering new ones 
 
@@ -449,7 +398,48 @@ Long: Above 70th percentile + positive momentum
 Short: Below 30th percentile + negative momentum
 Stricter thresholds when exposure > 70%
 Place orders that will execute when market opens",https://reddit.com/r/algotrading/comments/1hzx5s8/silly_hype_trading_bot_that_combines_sentiment/
-My TV Indicator that catches Lows with backtest,Professional-Bar4097,24.12.31 오전 9:33,122,70,"Hello, I was told to post my indicator on here so thats what I am doing. The link to it is at the bottom of this post.
+백테스트로 최저점을 잡는 내 TV 표시기,My TV Indicator that catches Lows with backtest,Professional-Bar4097,24.12.31 오전 9:33,125,70,"안녕하세요, 여기에 지표를 게시하라는 지시를 받았습니다. 그것에 대한 링크는이 게시물의 맨 아래에 있습니다.
+
+백 테스트에서 볼 수 있듯이 최저점과 바닥을 잡을 때 매우 신뢰할 수 있습니다. 나는 시간이있을 때 어느 시점에서 낮은 TF에서 백 테스트를 할 것입니다.
+
+TradingView에 대한 내 게시물의 복사 및 붙여 넣기는 다음과 같습니다.
+
+안녕하세요 여러분, 내 지표를 시도한 사람들에게 감사합니다. :) 
+
+모두가 백 테스트를 요구하고 있었기 때문에 항목 및 출구에 대한 지표 만 사용하여 좋은 전략을 찾았습니다. ES 1 일 (D) 차트에서 테스트되었습니다.
+
+나는 실제로 거래 할 무언가에 대해 테스트했습니다. 이러한 정확한 입력 및 종료 설정 및 표시기 설정이 다른 시계 또는 기간에 어떻게 작용하는지 모르겠습니다.
+
+레버리지 백 테스트는 VIX를 사용하여 사용 된 레버리지 양을 결정합니다.
+
+위원회는 IBKR 수수료를 사용하여 모든 거래에서 회계되었습니다. 측면 당 $ 2.25.
+
+특히 133 개의 거래 만하면 미끄러짐을 안정적으로 일반화 할 수 없으므로 미끄러짐은 설명되지 않았습니다. 미끄러짐은 한 번에 약 1,000 개의 계약이 거래 될 때까지 크게 발생하지 않았을 것입니다. 이로 인해 레버리지 백 테스트는 실제로 긍정적 인 미끄러짐이 발생할 수있는 것으로 보이는 것보다 다소 복귀 할 수 있습니다.
+
+그림 ""(짧은 조건)에 표시된 코드에서""짧은 조건은 짧지 않습니다. 기본 이름을 변경하지 않았습니다. 그것은 정지 로스를 사용합니다. ""(짧은 조건)과 관련하여 혼란이있는 경우이 글을 쓰고 싶었습니다.
+
+코드에서 위치 크기 섹션에서 50은 1 : 1 레버리지를 나타냅니다. 3은 16.6 : 1 레버리지를 나타냅니다. 12.5는 4 : 1 레버리지를 나타냅니다.
+
+항목 : 항목은 녹색 화살표가있을 때 발생합니다. 다음 바의 오픈에서 위치에 들어갑니다.
+
+종료 : 출구는 현재 파란색 선 (압력 가중) 값이 이전 블루 라인 (압력 가중) 값보다 낮을 때만 발생합니다. 이전 막대의 닫기에 의해 계산 된 정지 손실을 사용하여 다음 막대에서 위치를 종료합니다.
+
+내가 사용한 표시기 설정은 차트에서 찾을 수 있습니다. 이것들은 일반적으로 다른 티커와 TF를 위해 엉망이되어야합니다.
+
+업데이트가 게시 되 자마자 표시기에 공개됩니다.
+
+업데이트에는 다음이 포함됩니다.
+
+특정 변동성 동안 화살표를 걸러내는 변동성 필터 설정.
+
+VIX 가중 화살표가 추가되었습니다. 이들은 VIX를 중량으로 사용하여 보라색으로 VIX 가중 특정 화살표를 추가합니다. (이들은 THR 백 테스트에서 사용되지 않았습니다)
+
+보라색 화살표를 생성 할 때 무게 변동성을 조정하기위한 VIX 가중 화살표 설정.
+
+이것은 업데이트에 새로운 것이 아니지만 차트의 모든 줄은 조정 가능합니다. 이는 점 표시기가 시세 및 기간에 따라 다르게 반응하여 사용자가 표시기를 쉽게 구현할 수 있도록하기 때문에 중요합니다.
+
+표시기는 여전히 무료이며 여기에서 사용할 수 있습니다.
+https://www.tradingview.com/script/oxwga1au-weighted-volumetric-pressure/","Hello, I was told to post my indicator on here so thats what I am doing. The link to it is at the bottom of this post.
 
 It is pretty reliable at catching lows and bottoms as seen in the backtests. I am going to backtest on a lower tf at some point when I have time to.
 
@@ -491,7 +481,22 @@ This is not new to the update, but every line on the chart is adjustable. This i
 
 The indicator is still free and you can use it here:
 https://www.tradingview.com/script/OXwgA1au-Weighted-Volumetric-Pressure/",https://reddit.com/r/algotrading/comments/1hq25v1/my_tv_indicator_that_catches_lows_with_backtest/
-Hundreds of quant papers from #QuantLinkADay in 2024,shock_and_awful,25.1.6 오전 9:28,119,13,"Happy new year all. 
+2024년 #QuantLinkADay의 수백 편의 퀀트 논문,Hundreds of quant papers from #QuantLinkADay in 2024,shock_and_awful,25.1.6 오전 9:28,122,13,"새해 복 많이 받으세요. 
+
+이것을 발견하고 가치가 있다고 생각했습니다.
+나는 어떤 관계가 없다. 누군가를 도와주기를 바랍니다!
+
+https://turnleafanalytics.com/hundreds-of-quant-papers-from-quantlinkaday-in-2024/
+ 
+편집 : 다음은 목록의 몇 가지 예입니다.
+
+01-Jan / FX / 이국 통화 및 외환 시장의 프론티어 프리미엄
+
+02-Jan / Machine Learning / Financial Markets의 인과 관계 : 비 정기 시계열 데이터를위한 프레임 워크
+
+03-Jan / Economics / European Football Player 평가 : 재무 모델 및 네트워크 이론 통합
+
+04-Jan / Trading / Twitter 빅 데이터 분석을 사용한 암호 화폐 가격 변동 예측을위한 거래 알고리즘","Happy new year all. 
 
 Came across this and thought it might be share worthy.
 I have no affiliation whatsoever. Hope it helps someone!
@@ -507,42 +512,31 @@ Edit: here are some examples from the list:
 03-Jan / Economics / European Football Player Valuation: Integrating Financial Models and Network Theory
 
 04-Jan / Trading / Intraday Trading Algorithm for Predicting Cryptocurrency Price Movements Using Twitter Big Data Analysis",https://reddit.com/r/algotrading/comments/1hulzun/hundreds_of_quant_papers_from_quantlinkaday_in/
-Hurst Exponent shows that 95% of the time in the market is mean reverting?,Noob_Master6699,25.1.2 오전 2:10,119,49,"I ran hurst exponent on nasdaq in 1min, 5min, 30min timeframe and only about 5-8% of the time the market is trending and over 90% of the time the market is mean-reverting.
+허스트 지수는 시장 시간의 95%가 평균 회귀라는 것을 보여줍니다.,Hurst Exponent shows that 95% of the time in the market is mean reverting?,Noob_Master6699,25.1.2 오전 2:10,120,49,"나는 NASDAQ에서 1 분, 5 분, 30 분 기간 동안 허스트 지수를 운영했으며 시장이 추세하는 시간의 약 5-8%와 시장이 평균적인 반복되는 시간의 90% 이상입니다.
+
+1. 이것이 내가 기대했던 것입니까? 나는 시장이 문을 열 때 대부분의 시간을 의미하며, 그것은 꽤 일방적이며 잠시 후에는 반복을 의미하기 시작했습니다.
+
+2. 시장 체제를 식별 (또는 예측) 할 모델을 구축하고 모멘텀 전략과 평균적인 역전 전략을 할당하려고 노력하므로 숨겨진 Markov 모델과 같은 다른 유용한 테스트가 있습니까?","I ran hurst exponent on nasdaq in 1min, 5min, 30min timeframe and only about 5-8% of the time the market is trending and over 90% of the time the market is mean-reverting.
 
 1. Is this something I expected to see? I mean most of the time when the market open, it is quite one-sided and after a while, it settled and started to mean revert
 
 2. I am trying to build a model to identify (or predict) the market regime and try to allocate momentum strategy and mean reverting strategy, so there other useful test I can do, like, Hidden Markov Model?",https://reddit.com/r/algotrading/comments/1hr77sy/hurst_exponent_shows_that_95_of_the_time_in_the/
-How do you all automate your trading?,4fgmn4,25.1.6 오전 1:27,116,96,"Hi
+모두 거래를 어떻게 자동화합니까?,How do you all automate your trading?,4fgmn4,25.1.6 오전 1:27,117,96,"안녕
+
+나는 매일 거래하는 몇 가지 전략을 가지고 있습니다. 현재 저는 RTH의 마지막 10분 동안 코드를 실행한 다음 브로커로 이동하여 내용을 실행하고 있습니다. 나는 내 인생에서 이 일을 없애고 싶다. 다들 어떤 플랫폼/API를 추천하시나요?
+
+편집: 코드 작성 방법을 알고 있습니다. 나는 누구도 고용하고 싶지 않습니다. 나는 내 전략을 공유하지 않습니다.","Hi
 
 I’ve got a handful of strategies I trade on the daily timeframe. Currently I’m running my code in the last 10 minutes of RTH and then going to my broker and executing whatever it says. I would like to remove this chore from my life. What platforms/apis do you all recommend?
 
 Edit: I know how to write code. I don’t want to hire anyone. I’m not sharing my strategy.",https://reddit.com/r/algotrading/comments/1huaqp4/how_do_you_all_automate_your_trading/
-Beware or AI Generated garbage posing as Algo trading books on Amazon,clisztian,25.1.9 오후 7:55,105,32,"An Amazon, there’s a flood of books that claim to be part of a series on Algo trading by an “author” named Jamie Flux with crazy price tags. These are all AI generated garbage that was spit out by an LLM. While there could be useful information in them, you can get all the knowledge for free using your own ChatGPT queries.
+Amazon의 Algo Trading Books로 포즈를 취하는 쓰레기를 조심하거나 AI 생성,Beware or AI Generated garbage posing as Algo trading books on Amazon,clisztian,25.1.9 오후 7:55,105,32,"아마존은 미친 가격표를 가진 제이미 플럭스 (Jamie Flux)라는“저자”에 의한 알고 거래에 관한 시리즈의 일부라고 주장하는 책이 홍수가 있습니다. 이들은 모두 LLM에 의해 침을 뱉은 AI 생성 쓰레기입니다. 유용한 정보가있을 수 있지만 자신의 chatgpt 쿼리를 사용하여 모든 지식을 무료로 얻을 수 있습니다.
+
+다음은 예입니다
+
+Cuda (인공 에지 : Python을 사용한 정량적 거래 전략)를 통한 고주파 거래 알고리즘 및 실시간 시장 분석 https://a.co/d/2naiit6","An Amazon, there’s a flood of books that claim to be part of a series on Algo trading by an “author” named Jamie Flux with crazy price tags. These are all AI generated garbage that was spit out by an LLM. While there could be useful information in them, you can get all the knowledge for free using your own ChatGPT queries.
 
 Here’s an example
 
 High-Frequency Trading Algorithms and Real-Time Market Analysis With CUDA (The Artificial Edge: Quantitative Trading Strategies with Python) https://a.co/d/2naIIt6",https://reddit.com/r/algotrading/comments/1hxaaiq/beware_or_ai_generated_garbage_posing_as_algo/
-What tech stacks do you like to use to implement algotrading at work or for yourself? ,haramicock,25.1.9 오전 9:39,94,74,"I got into trading/algotrading only a few years back so I am curious what people prefer using. Also would like to know what you guys use at work if you do algotrading professionally. I specifically want to know what's the best software tooling that people in the industry use, and for what use cases. Any other comments or things of note/interest that you have come upon within this tooling space would also be appreciated.",https://reddit.com/r/algotrading/comments/1hx00en/what_tech_stacks_do_you_like_to_use_to_implement/
-Sharing a mistake I made in designing my trading model,HaxusPrime,25.1.2 오전 7:23,72,29,"Instead of minimizing MSE or MAE, I was trying to maximize Sharpe Ratio. Big Oops! Come to find out, Sharpe really matters later in the game after one backtests, forward tests, simulates the trading model. Makes sense to me now but I'm a big noob. Only put about 300-350 hours into this so far. ",https://reddit.com/r/algotrading/comments/1hre8y0/sharing_a_mistake_i_made_in_designing_my_trading/
-Looking for providers for historical level 2 US stock data,CountMacaroni,24.12.30 오후 7:27,70,12,"Me and a partner are building our first trading algorithm and have gotten it to a stage where we are ready to begin testing our project. We are looking for options for potential providers for historical level 1 and historical level 2 data going back at around 3 years for our specific strategy. Additionally, we are looking to, if possible, stay within a budget of $500/month if possible but we can feasibly stretch ourselves out to $1,000/month if it is worth it. 
-
-After doing a bit of research, it is my understanding that the [Polygon.io](http://Polygon.io) basic package ($30/month) should likely suffice for the simple purposes of testing our model using historical data, which is what we want to do at this point, but Polygon does not yet support historical level 2 data from what I've seen. Our goal is to spend the smallest amount of money necessary to access the minimally viable level 1 & level 2 historical data required for testing. At this point, we are just looking to get things up to running in a testing phase where we are actually able to backtest our strategies before deciding if we want to continue on to a more advanced, more dedicated implementation that has the potential to require more financial and technological resources.
-
-I've read posts in the past about this specific request but have had difficulty navigating them, if I could have some assistance with this matter it would be very helpful, as I'm coming solely from a computer programming background whereas my partner on this project has most of the financial expertise. Thanks in advance.",https://reddit.com/r/algotrading/comments/1hpkera/looking_for_providers_for_historical_level_2_us/
-IBKR API... Where do I start?,PhishyGeek,24.12.30 오후 12:31,68,45,"Experienced software engineer here looking to automate the selling part of my trading process (excellent buyer, terrible seller). 
-
-Of course I immediately turned to my personal assistant to help me (chatgpt) and it recommends the ib-insync library. Turns out, that codebase is not being updated do to the creators death. Prob not smart of me to use it since I'm hooking it up to a financial account lol.   
-  
-So now what? I've seen ib-async out there, or I could spend some time (sad emoji) learning the IBAPI. As a software dev, I generally prefer to just learn the api and write my own code but damn these docs... where even do I start? Theres like 20 entry points for the api documentation. 
-
-Anywho, would really appreciate someone pointing me to the best place to start. If we all agree to use a library, great, but if the recommendation is to use the IBAPI with my own code, can someone link me to the proper API docs (i.e Client Portal Web api, TWS API, or the Web API)? 
-
-I'm assuming I should start reading the [web api docs](https://www.interactivebrokers.com/campus/ibkr-api-page/webapi-doc/), so I'll start there until someone tells me otherwise. 
-
-TIA!",https://reddit.com/r/algotrading/comments/1hpdy7f/ibkr_api_where_do_i_start/
-Is there a good source for intro to algo trading?,humpmeimapilot,24.12.30 오전 2:46,66,35,"Hello all
-Newbie here wondering if there is a good source for learning the basics of building an algorithm for doing this trading process?
-
-I have basic knowledge of options futures and other types of trading but not how to combine that with algorithms. 
-
-Thanks!",https://reddit.com/r/algotrading/comments/1hp1bed/is_there_a_good_source_for_intro_to_algo_trading/
+직장이나 직접 조류를 구현하는 데 어떤 기술 스택을 사용하고 싶습니까?,What tech stacks do you like to use to implement algotrading at work or for yourself? ,haramicock,25.1.9 오전 9:39,96,74,"저는 불과 몇 년 전에 트레이딩/알고트레이딩을 시작했는데 사람들이 무엇을 선호하는지 궁금합니다. 또한 전문적으로 알고트레이딩을 하는 경우 직장에서 무엇을 사용하는지 알고 싶습니다. 특히 업계 사람들이 사용하는 최고의 소프트웨어 도구가 무엇인지, 어떤 용도로 사용되는지 알고 싶습니다. 이 도구 공간에서 발견한 다른 의견이나 메모/관심 사항도 감사하게 생각하겠습니다.","I got into trading/algotrading only a few years back so I am curious what people prefer using. Also would like to know what you guys use at work if you do algotrading professionally. I specifically want to know what's the best software tooling that people in the industry use, and for what use cases. Any other comments or things of note/interest that you have come upon within this tooling space would also be appreciated.",https://reddit.com/r/algotrading/comments/1hx00en/what_tech_stacks_do_you_like_to_use_to_implement/
