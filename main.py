@@ -25,16 +25,19 @@ def get_subreddit_posts(subreddit_name, post_limit=50, post_type='hot'):
     for post in posts:
         # 게시물이 삭제되지 않았는지 확인
         if not post.removed_by_category:
+            # 작성시간을 한국 형식으로 변환
+            created_time = datetime.fromtimestamp(post.created_utc)
+            formatted_time = created_time.strftime("%y.%-m.%-d %p %-I:%M")\
+                .replace("AM", "오전").replace("PM", "오후")
+            
             data = {
                 '제목': post.title,
                 '작성자': post.author.name if post.author else '[삭제됨]',
-                '작성시간': datetime.fromtimestamp(post.created_utc),
+                '작성시간': formatted_time,  # 형식 변경된 시간
                 '추천수': post.score,
                 '댓글수': post.num_comments,
                 '내용': post.selftext,
                 'URL': f'https://reddit.com{post.permalink}',
-                '플레어': post.link_flair_text,  # 게시물 태그
-                '업로드_비율': post.upvote_ratio  # 추천 비율
             }
             # 알고트레이딩 관련 키워드가 있는 게시물만 저장
             keywords = ['algorithm', 'trading', 'strategy', 'backtest', 'python']
