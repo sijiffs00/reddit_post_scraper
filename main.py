@@ -29,37 +29,38 @@ def get_subreddit_posts(subreddit_name, post_limit=50, post_type='hot'):
     post_data = []
     for i, post in enumerate(posts, 1):
         print(f"게시물 {i}/{post_limit} 처리 중...")  # 진행 상황 표시
-        # 게시물이 삭제되지 않았는지 확인
-        if not post.removed_by_category:
+        # 게시물이 삭제되지 않았고, 댓글이 5개 이상인 경우만 처리
+        if not post.removed_by_category and post.num_comments >= 5:
             # 작성시간을 한국 형식으로 변환
             created_time = datetime.fromtimestamp(post.created_utc)
             formatted_time = created_time.strftime("%y.%-m.%-d %p %-I:%M")\
                 .replace("AM", "오전").replace("PM", "오후")
             
-            # 제목과 내용 번역하기
-            try:
-                translated_title = translator.translate(post.title, dest='ko').text
-                translated_content = translator.translate(post.selftext, dest='ko').text if post.selftext else ''
-            except Exception as e:
-                print(f"번역 중 오류 발생: {e}")
-                translated_title = post.title
-                translated_content = post.selftext
-            
-            data = {
-                '제목': translated_title,  # 번역된 제목
-                '원본제목': post.title,    # 원본 제목도 저장
-                '작성자': post.author.name if post.author else '[삭제됨]',
-                '작성시간': formatted_time,
-                '추천수': post.score,
-                '댓글수': post.num_comments,
-                '내용': translated_content,  # 번역된 내용
-                '원본내용': post.selftext,   # 원본 내용도 저장
-                'URL': f'https://reddit.com{post.permalink}',
-            }
-            # 알고트레이딩 관련 키워드가 있는 게시물만 저장
+            # 알고트레이딩 관련 키워드 확인
             keywords = ['algorithm', 'trading', 'strategy', 'backtest', 'python']
             if any(keyword in post.title.lower() or 
                   keyword in post.selftext.lower() for keyword in keywords):
+                
+                # 키워드가 있는 경우에만 번역 실행
+                try:
+                    translated_title = translator.translate(post.title, dest='ko').text
+                    translated_content = translator.translate(post.selftext, dest='ko').text if post.selftext else ''
+                except Exception as e:
+                    print(f"번역 중 오류 발생: {e}")
+                    translated_title = post.title
+                    translated_content = post.selftext
+                
+                data = {
+                    '제목': translated_title,  # 번역된 제목
+                    '원본제목': post.title,    # 원본 제목도 저장
+                    '작성자': post.author.name if post.author else '[삭제됨]',
+                    '작성시간': formatted_time,
+                    '추천수': post.score,
+                    '댓글수': post.num_comments,
+                    '내용': translated_content,  # 번역된 내용
+                    '원본내용': post.selftext,   # 원본 내용도 저장
+                    'URL': f'https://reddit.com{post.permalink}',
+                }
                 post_data.append(data)
     
     return pd.DataFrame(post_data)
